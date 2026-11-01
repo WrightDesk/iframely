@@ -6,7 +6,7 @@
     ],
     "domains": {
         "photos.google.com": {
-            "date": 1775469110325,
+            "date": 1793183001590,
             "twitter": {
                 "photo": "deny"
             },
@@ -112,7 +112,7 @@
             }
         },
         "*.amazon.com": {
-            "date": 1773324802702,
+            "date": 1792667958860,
             "oembed": {
                 "rich": [
                     "allow",
@@ -138,7 +138,7 @@
             }
         },
         "music.amazon.com": {
-            "date": 1773324923937,
+            "date": 1792667940635,
             "oembed": {
                 "rich": [
                     "allow",
@@ -150,7 +150,7 @@
             }
         },
         "*.finance.yahoo.com": {
-            "date": 1774355293631,
+            "date": 1793095780906,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -218,7 +218,7 @@
             }
         },
         "linkedin.com": {
-            "date": 1787051131098,
+            "date": 1792076498266,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -228,7 +228,7 @@
             }
         },
         "*.linkedin.com": {
-            "date": 1791336604128,
+            "date": 1792611661112,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -241,6 +241,24 @@
             "date": 1788795293524,
             "html-meta": {
                 "embedURL": "deny"
+            }
+        },
+        "bilibili.com": {
+            "date": 1792683368080,
+            "og": {
+                "video": [
+                    "allow",
+                    "responsive",
+                    "autoplay"
+                ]
+            },
+            "html-meta": {
+                "embedURL": [
+                    "allow",
+                    "responsive",
+                    "autoplay",
+                    "ld_only"
+                ]
             }
         },
         "xvideos.com": {
@@ -308,7 +326,7 @@
             }
         },
         "customervoice.microsoft.com": {
-            "date": 1775130463948,
+            "date": 1793113133346,
             "oembed": {
                 "rich": [
                     "allow",
@@ -332,7 +350,7 @@
             }
         },
         "clips.twitch.tv": {
-            "date": 1770814460274,
+            "date": 1792407000853,
             "twitter": {
                 "player": "deny"
             },
@@ -371,7 +389,7 @@
             }
         },
         "music.amazon.de": {
-            "date": 1773324248095,
+            "date": 1792668174608,
             "oembed": {
                 "rich": [
                     "allow",
@@ -383,7 +401,7 @@
             }
         },
         "*.spotify.com": {
-            "date": 1772015187304,
+            "date": 1792581661791,
             "oembed": {
                 "rich": [
                     "allow",
@@ -400,7 +418,7 @@
             }
         },
         "*.globo.com": {
-            "date": 1775139134767,
+            "date": 1793114442126,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -410,7 +428,7 @@
             }
         },
         "music.amazon.in": {
-            "date": 1773324392209,
+            "date": 1792668158125,
             "oembed": {
                 "rich": [
                     "allow",
@@ -462,7 +480,7 @@
             }
         },
         "music.amazon.co.uk": {
-            "date": 1773324566071,
+            "date": 1792668053091,
             "oembed": {
                 "rich": [
                     "allow",
@@ -546,7 +564,7 @@
             }
         },
         "*.cnn.com": {
-            "date": 1776081347273,
+            "date": 1793278778139,
             "twitter": {
                 "player": [
                     "allow",
@@ -561,13 +579,10 @@
                     "responsive",
                     "ld_only"
                 ]
-            },
-            "og": {
-                "video": "deny"
             }
         },
         "slidesurvey.com": {
-            "date": 1776159348538,
+            "date": 1793278659926,
             "html-meta": {
                 "iframely": "deny"
             },
@@ -647,7 +662,7 @@
             }
         },
         "*.tradingview.com": {
-            "date": 1770818536087,
+            "date": 1792409150225,
             "twitter": {
                 "player": [
                     "allow",
@@ -665,7 +680,7 @@
             }
         },
         "music.amazon.ca": {
-            "date": 1773324501242,
+            "date": 1792668146201,
             "oembed": {
                 "rich": [
                     "allow",
@@ -677,7 +692,7 @@
             }
         },
         "music.amazon.it": {
-            "date": 1773324206475,
+            "date": 1792668194698,
             "oembed": {
                 "rich": [
                     "allow",
@@ -695,7 +710,7 @@
             }
         },
         "music.amazon.fr": {
-            "date": 1773324615809,
+            "date": 1792667983106,
             "oembed": {
                 "rich": [
                     "allow",
@@ -707,7 +722,7 @@
             }
         },
         "aol.com": {
-            "date": 1771445508095,
+            "date": 1792505923011,
             "html-meta": {
                 "embedURL": "deny"
             }
@@ -719,7 +734,7 @@
             }
         },
         "*.tumblr.com": {
-            "date": 1775648256796,
+            "date": 1793190513147,
             "oembed": {
                 "rich": [
                     "allow",
@@ -784,7 +799,7 @@
             }
         },
         "music.amazon.com.br": {
-            "date": 1773322460974,
+            "date": 1792668310051,
             "oembed": {
                 "rich": [
                     "allow",
@@ -802,7 +817,7 @@
             }
         },
         "ameblo.jp": {
-            "date": 1773754618937,
+            "date": 1793021990508,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -817,18 +832,8 @@
                 "video": "deny"
             }
         },
-        "videocast.nih.gov": {
-            "date": 1775127803088,
-            "html-meta": {
-                "embedURL": [
-                    "allow",
-                    "responsive",
-                    "ld_only"
-                ]
-            }
-        },
         "arabic.cnn.com": {
-            "date": 1775471316708,
+            "date": 1793185950455,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -908,7 +913,7 @@
             }
         },
         "music.amazon.es": {
-            "date": 1773323549835,
+            "date": 1792668296207,
             "oembed": {
                 "rich": [
                     "allow",
@@ -976,7 +981,7 @@
             }
         },
         "*.line.me": {
-            "date": 1775133952353,
+            "date": 1793112610040,
             "og": {
                 "video": [
                     "allow",
@@ -994,7 +999,7 @@
             }
         },
         "mlb.com": {
-            "date": 1773666823743,
+            "date": 1793012697872,
             "twitter": {
                 "player": [
                     "allow",
@@ -1038,7 +1043,7 @@
             }
         },
         "music.amazon.com.mx": {
-            "date": 1773324301532,
+            "date": 1792668168921,
             "oembed": {
                 "rich": [
                     "allow",
@@ -1066,14 +1071,16 @@
             }
         },
         "bsky.app": {
-            "date": 1781529929821,
+            "date": 1792069312403,
             "oembed": {
                 "rich": [
                     "allow",
                     "responsive",
-                    "inline",
                     "ssl"
                 ]
+            },
+            "og": {
+                "video": "allow"
             }
         },
         "manga.nicovideo.jp": {
@@ -1126,24 +1133,6 @@
                 ]
             }
         },
-        "bilibili.com": {
-            "date": 1791333075181,
-            "og": {
-                "video": [
-                    "allow",
-                    "responsive",
-                    "autoplay"
-                ]
-            },
-            "html-meta": {
-                "embedURL": [
-                    "allow",
-                    "responsive",
-                    "autoplay",
-                    "ld_only"
-                ]
-            }
-        },
         "*.comic.naver.com": {
             "date": 1791359864260,
             "oembed": {
@@ -1152,6 +1141,15 @@
                     "responsive"
                 ]
             },
+            "og": {
+                "video": [
+                    "allow",
+                    "responsive"
+                ]
+            }
+        },
+        "serviceapi.nmv.naver.com": {
+            "date": 1792008865872,
             "og": {
                 "video": [
                     "allow",
@@ -1177,7 +1175,7 @@
             }
         },
         "*.box.com": {
-            "date": 1772626912779,
+            "date": 1792585627636,
             "twitter": {
                 "player": [
                     "allow",
@@ -1202,7 +1200,7 @@
             }
         },
         "*.repubblica.it": {
-            "date": 1774964966493,
+            "date": 1793105426195,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -1222,7 +1220,7 @@
             }
         },
         "*.corriere.it": {
-            "date": 1774356685662,
+            "date": 1793102289335,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -1291,7 +1289,7 @@
             }
         },
         "mibebeyyo.elmundo.es": {
-            "date": 1772736761430,
+            "date": 1792590883030,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -1319,7 +1317,7 @@
             }
         },
         "*.ndtv.com": {
-            "date": 1776254653660,
+            "date": 1793284186261,
             "twitter": {
                 "player": [
                     "allow",
@@ -1331,12 +1329,11 @@
             }
         },
         "*.hurriyet.com.tr": {
-            "date": 1773847649677,
+            "date": 1793026782735,
             "html-meta": {
                 "embedURL": [
                     "allow",
-                    "responsive",
-                    "autoplay"
+                    "responsive"
                 ]
             }
         },
@@ -1411,7 +1408,7 @@
             }
         },
         "*.nbcnews.com": {
-            "date": 1771338870120,
+            "date": 1792412641462,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -1421,6 +1418,15 @@
                 "iframely": [
                     "allow",
                     "resizable"
+                ]
+            }
+        },
+        "threads.com": {
+            "date": 1792684380668,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "ssl"
                 ]
             }
         },
@@ -1497,7 +1503,7 @@
             }
         },
         "*.gazzetta.it": {
-            "date": 1775552581820,
+            "date": 1793185108208,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -1507,7 +1513,7 @@
             }
         },
         "embases.com": {
-            "date": 1775636851671,
+            "date": 1793185101476,
             "html-meta": {
                 "iframely": "deny"
             },
@@ -1572,7 +1578,7 @@
             }
         },
         "cbsnews.com": {
-            "date": 1776256771869,
+            "date": 1793279655786,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -1729,7 +1735,7 @@
             }
         },
         "*.fanpage.it": {
-            "date": 1774366128723,
+            "date": 1793103709284,
             "twitter": {
                 "player": "deny",
                 "photo": "deny"
@@ -1761,7 +1767,7 @@
             }
         },
         "*.indiatoday.in": {
-            "date": 1772637476979,
+            "date": 1792584873887,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -1964,7 +1970,7 @@
             }
         },
         "*.fastevo.net": {
-            "date": 1771339021323,
+            "date": 1792412546084,
             "twitter": {
                 "player": [
                     "allow",
@@ -2002,7 +2008,7 @@
             }
         },
         "video.udn.com": {
-            "date": 1774967092812,
+            "date": 1793107901953,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -2012,7 +2018,7 @@
             }
         },
         "actualidad.rt.com": {
-            "date": 1771419695677,
+            "date": 1792506098339,
             "twitter": {
                 "player": "allow"
             }
@@ -2037,7 +2043,7 @@
             }
         },
         "www.bloomberg.com": {
-            "date": 1771339688655,
+            "date": 1792412409216,
             "html-meta": {
                 "embedURL": "deny",
                 "iframely": "allow"
@@ -2119,7 +2125,7 @@
             }
         },
         "www.fandango.com": {
-            "date": 1771500900844,
+            "date": 1792576392259,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -2153,7 +2159,7 @@
             }
         },
         "kumparan.com": {
-            "date": 1775655720316,
+            "date": 1793188422350,
             "html-meta": {
                 "embedURL": "deny"
             }
@@ -2263,7 +2269,7 @@
             }
         },
         "20min.ch": {
-            "date": 1772718731961,
+            "date": 1792589353251,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -2310,7 +2316,7 @@
             }
         },
         "wordwall.net": {
-            "date": 1775130514875,
+            "date": 1793112793798,
             "oembed": {
                 "rich": [
                     "allow",
@@ -2354,7 +2360,7 @@
             }
         },
         "*.tn.com.ar": {
-            "date": 1773665399994,
+            "date": 1793010453996,
             "twitter": {
                 "player": "deny"
             },
@@ -2379,9 +2385,16 @@
             }
         },
         "zdf.de": {
-            "date": 1788255591221,
+            "date": 1792787046262,
             "html-meta": {
                 "embedURL": "deny"
+            },
+            "og": {
+                "video": "deny"
+            },
+            "twitter": {
+                "player": "deny",
+                "stream": "deny"
             }
         },
         "airtable.com": {
@@ -2397,7 +2410,7 @@
             }
         },
         "*.typeform.com": {
-            "date": 1774356609487,
+            "date": 1793095420372,
             "oembed": {
                 "rich": [
                     "allow",
@@ -2500,7 +2513,7 @@
             }
         },
         "tenor.com": {
-            "date": 1775731396520,
+            "date": 1792069120989,
             "oembed": {
                 "video": [
                     "allow",
@@ -2524,7 +2537,8 @@
             "html-meta": {
                 "embedURL": [
                     "allow",
-                    "responsive"
+                    "responsive",
+                    "ld_only"
                 ]
             }
         },
@@ -2544,7 +2558,7 @@
             }
         },
         "srf.ch": {
-            "date": 1775129713464,
+            "date": 1793110840071,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -2573,7 +2587,7 @@
             }
         },
         "gala.fr": {
-            "date": 1775140042745,
+            "date": 1793179548402,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -2621,7 +2635,7 @@
             }
         },
         "*.journaldesfemmes.fr": {
-            "date": 1773845070353,
+            "date": 1793027440530,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -2641,7 +2655,7 @@
             }
         },
         "france.tv": {
-            "date": 1770721680763,
+            "date": 1792408143730,
             "html-meta": {
                 "embedURL": "deny"
             }
@@ -2684,7 +2698,7 @@
             }
         },
         "smotrim.ru": {
-            "date": 1791338456833,
+            "date": 1792593911449,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -2717,7 +2731,7 @@
             }
         },
         "storymaps.arcgis.com": {
-            "date": 1775649145561,
+            "date": 1793189943701,
             "oembed": {
                 "rich": [
                     "allow",
@@ -2738,7 +2752,7 @@
             }
         },
         "timesnowhindi.com": {
-            "date": 1773326398370,
+            "date": 1792667247489,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -2839,7 +2853,7 @@
             }
         },
         "*.iheart.com": {
-            "date": 1775129994577,
+            "date": 1793109856624,
             "twitter": {
                 "player": [
                     "deny",
@@ -2951,7 +2965,7 @@
             }
         },
         "cnnindonesia.com": {
-            "date": 1775471239420,
+            "date": 1793186142305,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -3000,7 +3014,7 @@
             }
         },
         "pbs.org": {
-            "date": 1771845317668,
+            "date": 1792574778970,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -3009,7 +3023,7 @@
             }
         },
         "*.video.ibm.com": {
-            "date": 1774347450314,
+            "date": 1793094649240,
             "twitter": {
                 "player": [
                     "allow",
@@ -3047,7 +3061,7 @@
             }
         },
         "video.disney.com": {
-            "date": 1773915714999,
+            "date": 1793027963684,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -3093,7 +3107,7 @@
             }
         },
         "24tv.ua": {
-            "date": 1774359502580,
+            "date": 1793096838621,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -3353,18 +3367,6 @@
                 ]
             }
         },
-        "*.publico.es": {
-            "date": 1773843076193,
-            "html-meta": {
-                "embedURL": [
-                    "allow",
-                    "responsive",
-                    "autoplay",
-                    "ssl",
-                    "ld_only"
-                ]
-            }
-        },
         "purl.stanford.edu": {
             "date": 1781694456935,
             "oembed": {
@@ -3393,7 +3395,7 @@
             }
         },
         "arcade.giphy.com": {
-            "date": 1774964677829,
+            "date": 1793105207526,
             "twitter": {
                 "player": [
                     "allow",
@@ -3433,7 +3435,7 @@
             }
         },
         "www.ntv.ru": {
-            "date": 1770814658557,
+            "date": 1792409232461,
             "og": {
                 "video": "deny"
             },
@@ -3462,7 +3464,7 @@
             }
         },
         "*.pixnet.net": {
-            "date": 1788436300890,
+            "date": 1792594041003,
             "oembed": {
                 "video": [
                     "allow",
@@ -3578,7 +3580,7 @@
             }
         },
         "kaggle.com": {
-            "date": 1773840800734,
+            "date": 1793024256476,
             "oembed": {
                 "rich": [
                     "allow",
@@ -3599,19 +3601,12 @@
             }
         },
         "heraldo.es": {
-            "date": 1773321266193,
+            "date": 1792667769162,
             "twitter": {
-                "player": [
-                    "allow",
-                    "responsive"
-                ]
+                "player": "deny"
             },
             "html-meta": {
-                "embedURL": [
-                    "allow",
-                    "responsive",
-                    "ld_only"
-                ]
+                "embedURL": "deny"
             }
         },
         "*.vidio.com": {
@@ -3621,7 +3616,7 @@
             }
         },
         "15min.lt": {
-            "date": 1773316374350,
+            "date": 1792666138134,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -3632,7 +3627,7 @@
             }
         },
         "br.de": {
-            "date": 1773843751467,
+            "date": 1793026435493,
             "twitter": {
                 "player": "deny",
                 "photo": "deny"
@@ -3651,7 +3646,7 @@
             }
         },
         "*.h5p.com": {
-            "date": 1774341264553,
+            "date": 1793094823288,
             "oembed": {
                 "rich": [
                     "allow",
@@ -3660,7 +3655,7 @@
             }
         },
         "theverge.com": {
-            "date": 1774267899118,
+            "date": 1793094865784,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -3681,7 +3676,7 @@
             }
         },
         "swr.de": {
-            "date": 1771411880591,
+            "date": 1792576866550,
             "twitter": {
                 "stream": "allow",
                 "player": [
@@ -3755,7 +3750,7 @@
             }
         },
         "sporza.be": {
-            "date": 1773845916208,
+            "date": 1793024497649,
             "html-meta": {
                 "embedURL": "deny"
             }
@@ -3771,7 +3766,7 @@
             }
         },
         "desmos.com": {
-            "date": 1773742357983,
+            "date": 1793011560930,
             "oembed": {
                 "rich": [
                     "allow",
@@ -3827,7 +3822,7 @@
             }
         },
         "*.cnnturk.com": {
-            "date": 1775471252235,
+            "date": 1793186089051,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -3846,7 +3841,7 @@
             }
         },
         "codepen.io": {
-            "date": 1774909444904,
+            "date": 1793103825795,
             "oembed": {
                 "rich": [
                     "allow",
@@ -3860,7 +3855,7 @@
             }
         },
         "*.sport5.co.il": {
-            "date": 1774354190233,
+            "date": 1793094406233,
             "og": {
                 "video": "deny"
             },
@@ -3870,7 +3865,7 @@
             }
         },
         "polygon.com": {
-            "date": 1773748535536,
+            "date": 1793022584296,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -3880,7 +3875,7 @@
             }
         },
         "giga.de": {
-            "date": 1770723427830,
+            "date": 1792408048064,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -3908,7 +3903,7 @@
             }
         },
         "dribbble.com": {
-            "date": 1774356732904,
+            "date": 1793102102353,
             "twitter": {
                 "player": "deny"
             }
@@ -3967,7 +3962,7 @@
             }
         },
         "*.telegraf.rs": {
-            "date": 1770818481965,
+            "date": 1792409180516,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -3976,7 +3971,7 @@
             }
         },
         "culture.ru": {
-            "date": 1773754550377,
+            "date": 1793022498680,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -4001,13 +3996,13 @@
             }
         },
         "*.dziennik.pl": {
-            "date": 1775468750817,
+            "date": 1793183315299,
             "html-meta": {
                 "embedURL": "deny"
             }
         },
         "ren.tv": {
-            "date": 1773665314190,
+            "date": 1793010749519,
             "og": {
                 "video": [
                     "allow",
@@ -4051,7 +4046,7 @@
             }
         },
         "*.actblue.com": {
-            "date": 1775731391011,
+            "date": 1793275640631,
             "oembed": {
                 "rich": "deny"
             }
@@ -4084,13 +4079,9 @@
             }
         },
         "odatv.com": {
-            "date": 1775655094473,
+            "date": 1793189372364,
             "html-meta": {
-                "embedURL": [
-                    "allow",
-                    "responsive",
-                    "ld_only"
-                ]
+                "embedURL": "deny"
             },
             "og": {
                 "video": "deny"
@@ -4137,7 +4128,7 @@
             }
         },
         "*.hudl.com": {
-            "date": 1773319545032,
+            "date": 1792668672956,
             "og": {
                 "video": [
                     "allow",
@@ -4253,7 +4244,7 @@
             }
         },
         "heyzine.com": {
-            "date": 1774361773934,
+            "date": 1793102319191,
             "oembed": {
                 "rich": [
                     "allow",
@@ -4298,17 +4289,19 @@
             }
         },
         "app.heygen.com": {
-            "date": 1772462138334,
+            "date": 1792587637547,
             "twitter": {
                 "player": [
                     "allow",
-                    "responsive"
+                    "responsive",
+                    "iframely"
                 ]
             },
             "og": {
                 "video": [
                     "allow",
-                    "responsive"
+                    "responsive",
+                    "iframely"
                 ]
             },
             "html-meta": {
@@ -4462,7 +4455,7 @@
             }
         },
         "avalon.lib.virginia.edu": {
-            "date": 1776258935013,
+            "date": 1793279225878,
             "oembed": {
                 "video": [
                     "allow",
@@ -4536,7 +4529,7 @@
             }
         },
         "gadgets360.com": {
-            "date": 1774962964442,
+            "date": 1793104763945,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -4592,7 +4585,7 @@
             }
         },
         "*.tally.so": {
-            "date": 1775489733664,
+            "date": 1793185154089,
             "oembed": {
                 "rich": [
                     "allow",
@@ -4602,9 +4595,16 @@
             }
         },
         "tv4play.se": {
-            "date": 1788878836408,
+            "date": 1792008709554,
             "og": {
                 "video": "allow"
+            },
+            "html-meta": {
+                "embedURL": [
+                    "allow",
+                    "responsive",
+                    "ld_only"
+                ]
             }
         },
         "*.odysee.com": {
@@ -4704,7 +4704,7 @@
             }
         },
         "worldstarhiphop.com": {
-            "date": 1770898802417,
+            "date": 1792411300831,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -4786,7 +4786,7 @@
             }
         },
         "guide.flippingbook.com": {
-            "date": 1771339789924,
+            "date": 1792493542948,
             "twitter": {
                 "stream": "deny",
                 "player": "deny"
@@ -4832,7 +4832,7 @@
             }
         },
         "learningapps.org": {
-            "date": 1774869247492,
+            "date": 1793103936588,
             "oembed": {
                 "rich": [
                     "allow",
@@ -4854,7 +4854,7 @@
             }
         },
         "megogo.net": {
-            "date": 1770904395258,
+            "date": 1792412157427,
             "og": {
                 "video": [
                     "allow",
@@ -4889,7 +4889,7 @@
             }
         },
         "yumpu.com": {
-            "date": 1775130225302,
+            "date": 1793109407620,
             "oembed": {
                 "rich": [
                     "allow",
@@ -4900,7 +4900,7 @@
             }
         },
         "comingsoon.it": {
-            "date": 1773314732791,
+            "date": 1792666568209,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -4981,8 +4981,25 @@
                 ]
             }
         },
+        "*.rferl.org": {
+            "date": 1792493112484,
+            "twitter": {
+                "player": [
+                    "allow",
+                    "responsive"
+                ],
+                "stream": "deny"
+            },
+            "html-meta": {
+                "embedURL": [
+                    "allow",
+                    "responsive",
+                    "ld_only"
+                ]
+            }
+        },
         "*.flippingbook.com": {
-            "date": 1775131530806,
+            "date": 1792493593649,
             "oembed": {
                 "rich": [
                     "allow",
@@ -5035,7 +5052,7 @@
             }
         },
         "*.eater.com": {
-            "date": 1773842609242,
+            "date": 1793024246984,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -5102,7 +5119,7 @@
             }
         },
         "pravda.ru": {
-            "date": 1775127425915,
+            "date": 1793108749109,
             "twitter": {
                 "player": [
                     "allow",
@@ -5128,7 +5145,7 @@
             }
         },
         "aksam.com.tr": {
-            "date": 1771024943185,
+            "date": 1792412989979,
             "twitter": {
                 "player": "deny",
                 "stream": "allow"
@@ -5176,7 +5193,7 @@
             }
         },
         "lucid.app": {
-            "date": 1776254849944,
+            "date": 1793282678754,
             "oembed": {
                 "rich": "deny"
             }
@@ -5210,7 +5227,7 @@
             }
         },
         "media.inquirer.com": {
-            "date": 1771498593614,
+            "date": 1792504183023,
             "oembed": {
                 "rich": [
                     "allow",
@@ -5401,37 +5418,6 @@
                 "video": "allow"
             }
         },
-        "eda.ru": {
-            "date": 1773846687060,
-            "twitter": {
-                "stream": "allow",
-                "player": "deny"
-            },
-            "og": {
-                "video": "deny"
-            },
-            "html-meta": {
-                "embedURL": [
-                    "allow",
-                    "responsive",
-                    "autoplay",
-                    "ld_only"
-                ]
-            }
-        },
-        "eda.rambler.ru": {
-            "date": 1773846749763,
-            "twitter": {
-                "stream": "allow",
-                "player": "deny"
-            },
-            "og": {
-                "video": "deny"
-            },
-            "html-meta": {
-                "embedURL": "deny"
-            }
-        },
         "beyazperde.com": {
             "date": 1790602750594,
             "twitter": {
@@ -5527,7 +5513,7 @@
             }
         },
         "medal.tv": {
-            "date": 1781618742236,
+            "date": 1792786809719,
             "twitter": {
                 "player": [
                     "allow",
@@ -5542,7 +5528,8 @@
                 "video": [
                     "allow",
                     "responsive"
-                ]
+                ],
+                "photo": "allow"
             },
             "html-meta": {
                 "embedURL": [
@@ -5585,6 +5572,17 @@
                 ]
             }
         },
+        "docs.superhuman.com": {
+            "date": 1792069420487,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "horizontal",
+                    "reader",
+                    "resizable"
+                ]
+            }
+        },
         "mindmegette.hu": {
             "date": 1788254896553,
             "html-meta": {
@@ -5605,7 +5603,7 @@
             }
         },
         "mentimeter.com": {
-            "date": 1770813167772,
+            "date": 1792407128022,
             "og": {
                 "video": "deny"
             }
@@ -5624,7 +5622,7 @@
             }
         },
         "www.m24.ru": {
-            "date": 1774354329239,
+            "date": 1793094400129,
             "og": {
                 "video": [
                     "allow",
@@ -5649,7 +5647,7 @@
             }
         },
         "av.lib.uh.edu": {
-            "date": 1776254693518,
+            "date": 1793283670370,
             "oembed": {
                 "video": [
                     "allow",
@@ -5865,7 +5863,7 @@
             }
         },
         "*.mancity.com": {
-            "date": 1772026495550,
+            "date": 1792580944378,
             "html-meta": {
                 "iframely": [
                     "allow",
@@ -6008,12 +6006,15 @@
             }
         },
         "*.roboflow.com": {
-            "date": 1771946329461,
+            "date": 1792580380516,
             "twitter": {
                 "player": "deny"
             },
             "oembed": {
                 "rich": "deny"
+            },
+            "html-meta": {
+                "iframely": "deny"
             }
         },
         "teespring.com": {
@@ -6145,7 +6146,7 @@
             }
         },
         "tele1.com.tr": {
-            "date": 1775140710262,
+            "date": 1793182324308,
             "twitter": {
                 "player": [
                     "allow",
@@ -6339,12 +6340,11 @@
             }
         },
         "band.com.br": {
-            "date": 1772737751656,
+            "date": 1792589874390,
             "html-meta": {
                 "embedURL": [
                     "allow",
-                    "responsive",
-                    "ld_only"
+                    "responsive"
                 ]
             }
         },
@@ -6402,7 +6402,7 @@
             }
         },
         "*.univ-nantes.fr": {
-            "date": 1791282328339,
+            "date": 1792008934547,
             "oembed": {
                 "video": [
                     "allow",
@@ -6439,7 +6439,7 @@
             }
         },
         "*.wistia.com": {
-            "date": 1773321205809,
+            "date": 1792667819395,
             "twitter": {
                 "player": [
                     "allow",
@@ -6477,7 +6477,7 @@
             }
         },
         "hareruyamtg.com": {
-            "date": 1776266573493,
+            "date": 1793285046672,
             "oembed": {
                 "rich": [
                     "allow",
@@ -6487,7 +6487,7 @@
             }
         },
         "*.onisep.fr": {
-            "date": 1773848113144,
+            "date": 1793028066778,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -6549,7 +6549,7 @@
             }
         },
         "coub.com": {
-            "date": 1771340033062,
+            "date": 1792413453755,
             "oembed": {
                 "video": "deny",
                 "video-autoplay": "autoplay=true"
@@ -6559,12 +6559,6 @@
                     "allow",
                     "responsive",
                     "ssl"
-                ]
-            },
-            "twitter": {
-                "player": [
-                    "allow",
-                    "responsive"
                 ]
             },
             "html-meta": {
@@ -6759,7 +6753,7 @@
             }
         },
         "www.metacdn.com": {
-            "date": 1773238425843,
+            "date": 1792666574538,
             "oembed": {
                 "video": [
                     "allow",
@@ -6784,7 +6778,7 @@
             }
         },
         "*.getpraise.com": {
-            "date": 1772026719096,
+            "date": 1792580863081,
             "html-meta": {
                 "iframely": "allow"
             },
@@ -6849,7 +6843,7 @@
             }
         },
         "5-tv.ru": {
-            "date": 1775141017329,
+            "date": 1793183908558,
             "og": {
                 "video": [
                     "allow",
@@ -6868,7 +6862,7 @@
             }
         },
         "*.myspace.com": {
-            "date": 1776254481150,
+            "date": 1793284226698,
             "twitter": {
                 "player": "deny"
             },
@@ -6877,7 +6871,7 @@
             }
         },
         "bursadabugun.com": {
-            "date": 1770901693688,
+            "date": 1792412293092,
             "og": {
                 "video": "deny"
             },
@@ -6977,7 +6971,7 @@
             }
         },
         "journaldunet.com": {
-            "date": 1773742257233,
+            "date": 1793027442671,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -7033,7 +7027,7 @@
             }
         },
         "karte.fau.de": {
-            "date": 1773847669642,
+            "date": 1793026642992,
             "oembed": {
                 "rich": [
                     "allow",
@@ -7042,7 +7036,7 @@
             }
         },
         "nebula.tv": {
-            "date": 1775771014493,
+            "date": 1793275623712,
             "oembed": {
                 "photo": "deny",
                 "video": [
@@ -7109,7 +7103,7 @@
             }
         },
         "linternaute.fr": {
-            "date": 1773665633324,
+            "date": 1792668853898,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -7154,12 +7148,9 @@
             }
         },
         "widget.scribblemaps.com": {
-            "date": 1774966839676,
+            "date": 1793106684084,
             "twitter": {
-                "player": [
-                    "allow",
-                    "responsive"
-                ]
+                "player": "deny"
             },
             "oembed": {
                 "rich": [
@@ -7200,7 +7191,7 @@
             }
         },
         "spreaker.com": {
-            "date": 1775731253622,
+            "date": 1793275895360,
             "twitter": {
                 "player": [
                     "allow",
@@ -7220,7 +7211,7 @@
             }
         },
         "whimsical.com": {
-            "date": 1773826534135,
+            "date": 1793023267309,
             "oembed": {
                 "rich": [
                     "allow",
@@ -7231,7 +7222,7 @@
             }
         },
         "*.mixpanel.com": {
-            "date": 1774356905628,
+            "date": 1793097968176,
             "oembed": {
                 "rich": [
                     "allow",
@@ -7316,7 +7307,7 @@
             }
         },
         "telegrafi.com": {
-            "date": 1772740290630,
+            "date": 1792589456311,
             "og": {
                 "video": [
                     "allow",
@@ -7334,7 +7325,7 @@
             }
         },
         "media.dlib.indiana.edu": {
-            "date": 1773320606738,
+            "date": 1792667886674,
             "oembed": {
                 "video": [
                     "allow",
@@ -7375,7 +7366,7 @@
             }
         },
         "addevent.com": {
-            "date": 1771340094899,
+            "date": 1792494555396,
             "html-meta": {
                 "iframely": "allow"
             }
@@ -7436,7 +7427,7 @@
             }
         },
         "beta.nebula.tv": {
-            "date": 1773328360878,
+            "date": 1792667180542,
             "twitter": {
                 "player": [
                     "allow",
@@ -7506,7 +7497,7 @@
             }
         },
         "scribblemaps.com": {
-            "date": 1774967002921,
+            "date": 1793106627135,
             "oembed": {
                 "rich": [
                     "allow",
@@ -7515,10 +7506,7 @@
                 ]
             },
             "twitter": {
-                "player": [
-                    "allow",
-                    "responsive"
-                ]
+                "player": "deny"
             }
         },
         "*.panopto.eu": {
@@ -7541,7 +7529,7 @@
             }
         },
         "beautiful.ai": {
-            "date": 1771856097674,
+            "date": 1792578067538,
             "oembed": {
                 "rich": [
                     "allow",
@@ -7561,7 +7549,7 @@
             }
         },
         "fathom.video": {
-            "date": 1776178869002,
+            "date": 1793276635173,
             "oembed": {
                 "video": [
                     "allow",
@@ -7569,10 +7557,10 @@
                 ]
             }
         },
-        "*.padlet.org": {
-            "date": 1775129920700,
-            "og": {
-                "video": [
+        "ndtvprofit.com": {
+            "date": 1792786951323,
+            "twitter": {
+                "player": [
                     "allow",
                     "responsive"
                 ]
@@ -7590,7 +7578,7 @@
             }
         },
         "thisoldhouse.com": {
-            "date": 1773844413068,
+            "date": 1793026407016,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -7616,11 +7604,12 @@
             }
         },
         "redbull.tv": {
-            "date": 1773595533463,
+            "date": 1792666678968,
             "og": {
                 "video": [
                     "allow",
-                    "responsive"
+                    "responsive",
+                    "autoplay"
                 ]
             },
             "html-meta": {
@@ -7691,7 +7680,7 @@
             }
         },
         "*.gravatar.com": {
-            "date": 1775132914102,
+            "date": 1793112683120,
             "oembed": {
                 "rich": [
                     "allow",
@@ -7709,6 +7698,15 @@
             },
             "og": {
                 "video": "deny"
+            }
+        },
+        "pod.link": {
+            "date": 1793282946041,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "horizontal"
+                ]
             }
         },
         "players.brightcove.net": {
@@ -7742,7 +7740,7 @@
             }
         },
         "jumpshare.com": {
-            "date": 1776261951840,
+            "date": 1793285437870,
             "oembed": {
                 "video": [
                     "allow",
@@ -7755,7 +7753,7 @@
             }
         },
         "lyfetymes.com": {
-            "date": 1776260055365,
+            "date": 1793285464153,
             "html-meta": {
                 "iframely": "deny"
             },
@@ -7786,7 +7784,7 @@
             }
         },
         "speakerdeck.com": {
-            "date": 1773755308188,
+            "date": 1793023347734,
             "oembed": {
                 "rich": [
                     "allow",
@@ -8081,7 +8079,7 @@
             }
         },
         "oper.ru": {
-            "date": 1772023089390,
+            "date": 1792581037225,
             "twitter": {
                 "photo": "allow",
                 "stream": "allow",
@@ -8101,6 +8099,29 @@
                 "rich": "deny"
             }
         },
+        "gifdb.com": {
+            "date": 1792786876542,
+            "twitter": {
+                "player": [
+                    "allow",
+                    "responsive",
+                    "gifv"
+                ]
+            },
+            "og": {
+                "video": [
+                    "allow",
+                    "gifv"
+                ]
+            },
+            "html-meta": {
+                "embedURL": [
+                    "allow",
+                    "responsive",
+                    "ld_only"
+                ]
+            }
+        },
         "*.forms.app": {
             "date": 1785338803402,
             "html-meta": {
@@ -8108,12 +8129,21 @@
             }
         },
         "videoclip.bg": {
-            "date": 1775129929337,
+            "date": 1793109891732,
             "html-meta": {
                 "embedURL": [
                     "allow",
                     "responsive",
-                    "ssl",
+                    "ld_only"
+                ]
+            }
+        },
+        "13tv.co.il": {
+            "date": 1792008971512,
+            "html-meta": {
+                "embedURL": [
+                    "allow",
+                    "responsive",
                     "ld_only"
                 ]
             }
@@ -8149,7 +8179,7 @@
             }
         },
         "*.maze.co": {
-            "date": 1771340133310,
+            "date": 1792413650888,
             "oembed": {
                 "rich": [
                     "allow",
@@ -8166,6 +8196,9 @@
                     "allow",
                     "resizable"
                 ]
+            },
+            "twitter": {
+                "player": "deny"
             }
         },
         "castle.xyz": {
@@ -8212,26 +8245,19 @@
             }
         },
         "clip.cafe": {
-            "date": 1770850310538,
-            "twitter": {
-                "player": [
-                    "allow",
-                    "responsive"
-                ]
-            },
+            "date": 1792410397248,
             "og": {
                 "video": "deny"
             },
             "html-meta": {
                 "embedURL": [
                     "allow",
-                    "responsive",
-                    "ld_only"
+                    "responsive"
                 ]
             }
         },
         "*.ccm.net": {
-            "date": 1773846251806,
+            "date": 1793027438551,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -8250,7 +8276,7 @@
             }
         },
         "*.kaltura.com": {
-            "date": 1773910837471,
+            "date": 1793028048890,
             "og": {
                 "video": [
                     "allow",
@@ -8285,7 +8311,7 @@
             }
         },
         "feratel.com": {
-            "date": 1770820766167,
+            "date": 1792411045919,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -8341,7 +8367,7 @@
             }
         },
         "medyaradar.net": {
-            "date": 1771412723912,
+            "date": 1792576573490,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -8393,7 +8419,7 @@
             }
         },
         "videos.uni-paderborn.de": {
-            "date": 1770818609451,
+            "date": 1792408530402,
             "twitter": {
                 "player": [
                     "allow",
@@ -8405,12 +8431,11 @@
             }
         },
         "hearthis.at": {
-            "date": 1775663083378,
+            "date": 1793276208092,
             "oembed": {
                 "rich": [
                     "allow",
                     "player",
-                    "ssl",
                     "horizontal",
                     "audio"
                 ]
@@ -8424,7 +8449,7 @@
             }
         },
         "omny.fm": {
-            "date": 1775729792153,
+            "date": 1793275928757,
             "twitter": {
                 "player": "deny"
             },
@@ -8459,9 +8484,15 @@
             }
         },
         "app.fireflies.ai": {
-            "date": 1782730543189,
+            "date": 1792069250221,
             "twitter": {
                 "player": [
+                    "allow",
+                    "responsive"
+                ]
+            },
+            "oembed": {
+                "video": [
                     "allow",
                     "responsive"
                 ]
@@ -8488,7 +8519,7 @@
             }
         },
         "www.koreus.com": {
-            "date": 1771498563984,
+            "date": 1792504421226,
             "html-meta": {
                 "video": [
                     "allow",
@@ -8510,6 +8541,12 @@
                     "allow",
                     "responsive"
                 ]
+            }
+        },
+        "actualidad-rt.com": {
+            "date": 1792506117292,
+            "twitter": {
+                "player": "allow"
             }
         },
         "dokuzeylul.com": {
@@ -8620,7 +8657,7 @@
             }
         },
         "kotikokki.net": {
-            "date": 1773665523164,
+            "date": 1793012747834,
             "oembed": {
                 "rich": "deny"
             }
@@ -8650,7 +8687,7 @@
             }
         },
         "*.vidyard.com": {
-            "date": 1775134839622,
+            "date": 1793114738217,
             "twitter": {
                 "stream": "deny",
                 "player": [
@@ -8663,6 +8700,20 @@
                 "video": [
                     "allow",
                     "responsive"
+                ]
+            }
+        },
+        "guidelane.io": {
+            "date": 1793115866782,
+            "twitter": {
+                "player": "deny"
+            },
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "horizontal",
+                    "reader",
+                    "resizable"
                 ]
             }
         },
@@ -8704,7 +8755,7 @@
             }
         },
         "*.datawrapper.de": {
-            "date": 1781165318246,
+            "date": 1792611609638,
             "oembed": {
                 "rich": [
                     "allow",
@@ -8731,23 +8782,6 @@
             "html-meta": {
                 "embedURL": [
                     "allow",
-                    "ld_only"
-                ]
-            }
-        },
-        "*.rferl.org": {
-            "date": 1773753097412,
-            "twitter": {
-                "player": [
-                    "allow",
-                    "responsive"
-                ],
-                "stream": "deny"
-            },
-            "html-meta": {
-                "embedURL": [
-                    "allow",
-                    "responsive",
                     "ld_only"
                 ]
             }
@@ -8871,7 +8905,7 @@
             }
         },
         "app.coachvox.ai": {
-            "date": 1773052611070,
+            "date": 1792593210845,
             "oembed": {
                 "rich": [
                     "allow",
@@ -8881,18 +8915,8 @@
                 ]
             }
         },
-        "tenyek.hu": {
-            "date": 1772742786675,
-            "html-meta": {
-                "embedURL": [
-                    "allow",
-                    "responsive",
-                    "ld_only"
-                ]
-            }
-        },
         "*.vhx.tv": {
-            "date": 1776252910580,
+            "date": 1793284255287,
             "twitter": {
                 "player": [
                     "allow",
@@ -8901,7 +8925,7 @@
             }
         },
         "*.jwplayer.com": {
-            "date": 1772011776798,
+            "date": 1792578575707,
             "twitter": {
                 "player": [
                     "allow",
@@ -8983,7 +9007,7 @@
             }
         },
         "tickcounter.com": {
-            "date": 1775466605786,
+            "date": 1793183621933,
             "oembed": {
                 "rich": [
                     "allow",
@@ -8993,7 +9017,7 @@
             }
         },
         "*.trice3d.com": {
-            "date": 1775466654058,
+            "date": 1793183524193,
             "oembed": {
                 "rich": [
                     "allow",
@@ -9302,7 +9326,7 @@
             }
         },
         "hailuoai.com": {
-            "date": 1773839871698,
+            "date": 1793022891811,
             "og": {
                 "video": "allow"
             },
@@ -9312,7 +9336,7 @@
             }
         },
         "icosa.gallery": {
-            "date": 1773839128313,
+            "date": 1793023039697,
             "oembed": {
                 "rich": [
                     "allow",
@@ -9357,7 +9381,7 @@
             }
         },
         "*.simplecast.com": {
-            "date": 1775130378850,
+            "date": 1793109105815,
             "twitter": {
                 "player": [
                     "allow",
@@ -9442,7 +9466,7 @@
             }
         },
         "1plus1.ua": {
-            "date": 1774964794012,
+            "date": 1793105723097,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -9473,12 +9497,19 @@
             }
         },
         "yappy.media": {
-            "date": 1774355150232,
+            "date": 1793094978540,
             "html-meta": {
                 "embedURL": "deny"
             },
             "og": {
                 "video": [
+                    "allow",
+                    "responsive",
+                    "autoplay"
+                ]
+            },
+            "twitter": {
+                "player": [
                     "allow",
                     "responsive",
                     "autoplay"
@@ -9495,7 +9526,7 @@
             }
         },
         "wtsp.com": {
-            "date": 1772721137948,
+            "date": 1792588867919,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -9611,12 +9642,6 @@
                 ]
             }
         },
-        "soundclick.com": {
-            "date": 1775468923326,
-            "og": {
-                "video": "deny"
-            }
-        },
         "hlamer.ru": {
             "date": 1788358592057,
             "og": {
@@ -9711,7 +9736,7 @@
             }
         },
         "*.documentcloud.org": {
-            "date": 1774356780097,
+            "date": 1793102016088,
             "oembed": {
                 "rich": [
                     "allow",
@@ -9784,7 +9809,7 @@
             }
         },
         "minds.com": {
-            "date": 1775467313639,
+            "date": 1793183430304,
             "oembed": {
                 "photo": "allow",
                 "video": "deny"
@@ -9890,7 +9915,7 @@
             }
         },
         "*.supademo.com": {
-            "date": 1771340168912,
+            "date": 1792494347118,
             "oembed": {
                 "rich": [
                     "allow",
@@ -9950,7 +9975,7 @@
             }
         },
         "nugs.net": {
-            "date": 1771500854339,
+            "date": 1792576436548,
             "oembed": {
                 "rich": [
                     "allow",
@@ -9971,7 +9996,7 @@
             }
         },
         "kinescope.io": {
-            "date": 1774358858269,
+            "date": 1793097146162,
             "oembed": {
                 "video": [
                     "allow",
@@ -10071,7 +10096,7 @@
             }
         },
         "guitarapp.com": {
-            "date": 1770903947832,
+            "date": 1792412229579,
             "html-meta": {
                 "iframely": "allow"
             }
@@ -10110,13 +10135,13 @@
             }
         },
         "*.id.land": {
-            "date": 1772028719031,
+            "date": 1792580651080,
             "html-meta": {
                 "iframely": "allow"
             }
         },
         "*.uha.fr": {
-            "date": 1770901577894,
+            "date": 1792412309528,
             "twitter": {
                 "player": [
                     "allow",
@@ -10171,7 +10196,7 @@
             }
         },
         "*.visily.ai": {
-            "date": 1775140756690,
+            "date": 1793182268659,
             "oembed": {
                 "rich": [
                     "allow",
@@ -10180,7 +10205,7 @@
             }
         },
         "*.metabaseapp.com": {
-            "date": 1775648805121,
+            "date": 1793189963391,
             "oembed": {
                 "rich": [
                     "allow",
@@ -10190,7 +10215,7 @@
             }
         },
         "*.storylane.io": {
-            "date": 1775470962752,
+            "date": 1792503402198,
             "oembed": {
                 "rich": [
                     "allow",
@@ -10206,7 +10231,7 @@
             }
         },
         "app.youform.com": {
-            "date": 1775648358689,
+            "date": 1793190379902,
             "html-meta": {
                 "iframely": "allow"
             }
@@ -10371,7 +10396,7 @@
             }
         },
         "hatena.blog": {
-            "date": 1776258829456,
+            "date": 1793279279788,
             "oembed": {
                 "rich": [
                     "allow",
@@ -10397,7 +10422,7 @@
             }
         },
         "*.emailsys1a.net": {
-            "date": 1773315144688,
+            "date": 1792666499876,
             "oembed": {
                 "rich": [
                     "allow",
@@ -10407,13 +10432,13 @@
             }
         },
         "*.beyonk.com": {
-            "date": 1770893729853,
+            "date": 1792409325772,
             "html-meta": {
                 "iframely": "allow"
             }
         },
         "*.zhdk.ch": {
-            "date": 1773145893047,
+            "date": 1792593714073,
             "oembed": {
                 "video": [
                     "allow",
@@ -10521,7 +10546,7 @@
             }
         },
         "app.resmio.com": {
-            "date": 1772721614265,
+            "date": 1792590904770,
             "html-meta": {
                 "iframely": "allow"
             }
@@ -10625,7 +10650,7 @@
             }
         },
         "radioradicale.it": {
-            "date": 1773315349277,
+            "date": 1792666396939,
             "twitter": {
                 "player": [
                     "allow",
@@ -10650,7 +10675,7 @@
             }
         },
         "*.civicrm.org": {
-            "date": 1773595604987,
+            "date": 1792669808677,
             "oembed": {
                 "rich": [
                     "allow",
@@ -10682,7 +10707,7 @@
             }
         },
         "indiatodayne.in": {
-            "date": 1773675328526,
+            "date": 1793012567382,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -10692,7 +10717,7 @@
             }
         },
         "app.membership.io": {
-            "date": 1771409230637,
+            "date": 1792576909854,
             "og": {
                 "video": [
                     "allow",
@@ -10743,7 +10768,7 @@
             }
         },
         "audioboom.com": {
-            "date": 1775731335840,
+            "date": 1793275857323,
             "twitter": {
                 "player": [
                     "allow",
@@ -10761,7 +10786,7 @@
             }
         },
         "tella.tv": {
-            "date": 1791809169880,
+            "date": 1792786673499,
             "oembed": {
                 "video": [
                     "allow",
@@ -10778,6 +10803,13 @@
                 "video": [
                     "allow",
                     "responsive"
+                ]
+            },
+            "html-meta": {
+                "embedURL": [
+                    "allow",
+                    "responsive",
+                    "ld_only"
                 ]
             }
         },
@@ -10835,7 +10867,7 @@
             }
         },
         "veranda.com": {
-            "date": 1771943652096,
+            "date": 1792577832013,
             "html-meta": {
                 "embedURL": "deny"
             }
@@ -10868,7 +10900,7 @@
             }
         },
         "mangoanimate.com": {
-            "date": 1773844590024,
+            "date": 1793025623035,
             "oembed": {
                 "video": [
                     "allow",
@@ -10910,7 +10942,7 @@
             }
         },
         "player.castr.com": {
-            "date": 1775140952435,
+            "date": 1793184182384,
             "twitter": {
                 "player": "deny"
             },
@@ -10939,7 +10971,7 @@
             }
         },
         "powr.io": {
-            "date": 1775648587677,
+            "date": 1793190184137,
             "oembed": {
                 "rich": [
                     "allow",
@@ -10959,7 +10991,7 @@
             }
         },
         "*.slite.com": {
-            "date": 1775127856356,
+            "date": 1793109088285,
             "oembed": {
                 "rich": [
                     "allow",
@@ -10981,7 +11013,7 @@
             }
         },
         "*.jsbin.com": {
-            "date": 1775132848952,
+            "date": 1793112773556,
             "oembed": {
                 "rich": [
                     "allow",
@@ -11163,7 +11195,7 @@
             }
         },
         "*.d.pr": {
-            "date": 1773315955324,
+            "date": 1792666329112,
             "twitter": {
                 "photo": "deny"
             },
@@ -11172,7 +11204,7 @@
                 "video": "deny"
             },
             "og": {
-                "video": "allow"
+                "video": "deny"
             }
         },
         "www.indiedb.com": {
@@ -11185,7 +11217,7 @@
             }
         },
         "app.vectary.com": {
-            "date": 1775134727194,
+            "date": 1793112246488,
             "oembed": {
                 "rich": [
                     "allow",
@@ -11255,7 +11287,7 @@
             }
         },
         "adilo.bigcommand.com": {
-            "date": 1775651357259,
+            "date": 1793189591726,
             "oembed": {
                 "video": [
                     "allow",
@@ -11313,7 +11345,7 @@
             }
         },
         "*.pickaxe.co": {
-            "date": 1775648548117,
+            "date": 1793190321909,
             "oembed": {
                 "rich": [
                     "allow",
@@ -11416,7 +11448,7 @@
             }
         },
         "ghostarchive.org": {
-            "date": 1775130111396,
+            "date": 1793109447386,
             "oembed": {
                 "video": [
                     "allow",
@@ -11557,16 +11589,6 @@
                 ]
             }
         },
-        "chatbot.page": {
-            "date": 1775472517264,
-            "oembed": {
-                "rich": [
-                    "allow",
-                    "horizontal",
-                    "resizable"
-                ]
-            }
-        },
         "deovr.com": {
             "date": 1789049639035,
             "og": {
@@ -11678,7 +11700,7 @@
             }
         },
         "imtcast.imt.fr": {
-            "date": 1770896034180,
+            "date": 1792411526525,
             "twitter": {
                 "player": [
                     "allow",
@@ -11699,7 +11721,7 @@
             }
         },
         "*.cleanshot.com": {
-            "date": 1772462034533,
+            "date": 1792581922867,
             "oembed": {
                 "video": [
                     "allow",
@@ -11757,36 +11779,8 @@
                 "rich": "deny"
             }
         },
-        "skiv.com": {
-            "date": 1777600128289,
-            "twitter": {
-                "player": [
-                    "allow",
-                    "responsive"
-                ]
-            },
-            "og": {
-                "video": [
-                    "allow",
-                    "responsive"
-                ]
-            },
-            "oembed": {
-                "video": [
-                    "allow",
-                    "responsive"
-                ]
-            },
-            "html-meta": {
-                "embedURL": [
-                    "allow",
-                    "responsive",
-                    "ld_only"
-                ]
-            }
-        },
         "ndla.no": {
-            "date": 1773316421669,
+            "date": 1792666114606,
             "oembed": {
                 "rich": [
                     "allow",
@@ -11994,7 +11988,7 @@
             }
         },
         "*.castos.com": {
-            "date": 1774265283986,
+            "date": 1793094928516,
             "twitter": {
                 "player": [
                     "allow",
@@ -12059,18 +12053,8 @@
                 "iframely": "allow"
             }
         },
-        "journaldunet.fr": {
-            "date": 1773742214395,
-            "html-meta": {
-                "embedURL": [
-                    "allow",
-                    "responsive",
-                    "ld_only"
-                ]
-            }
-        },
         "share.viostream.com": {
-            "date": 1772721248129,
+            "date": 1792588694559,
             "oembed": {
                 "video": [
                     "allow",
@@ -12079,6 +12063,9 @@
             },
             "twitter": {
                 "player": "deny"
+            },
+            "og": {
+                "video": "deny"
             }
         },
         "bigstockphoto.com": {
@@ -12140,7 +12127,7 @@
             }
         },
         "basta.media": {
-            "date": 1770901112808,
+            "date": 1792412342601,
             "oembed": {
                 "rich": "deny"
             }
@@ -12257,6 +12244,24 @@
                 ]
             }
         },
+        "listen.style": {
+            "date": 1792787063999,
+            "twitter": {
+                "player": [
+                    "allow",
+                    "audio",
+                    "horizontal"
+                ]
+            },
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "player",
+                    "horizontal",
+                    "audio"
+                ]
+            }
+        },
         "podfollow.com": {
             "date": 1779960416109,
             "oembed": {
@@ -12268,12 +12273,16 @@
             }
         },
         "*.tango.us": {
-            "date": 1777599718446,
+            "date": 1792787114418,
             "oembed": {
                 "rich": [
                     "allow",
                     "responsive",
                     "slideshow"
+                ],
+                "video": [
+                    "allow",
+                    "responsive"
                 ]
             },
             "twitter": {
@@ -12293,12 +12302,6 @@
                 ]
             }
         },
-        "actualidad-rt.com": {
-            "date": 1771419687619,
-            "twitter": {
-                "player": "allow"
-            }
-        },
         "workdrive.zohoexternal.in": {
             "date": 1791204374650,
             "og": {
@@ -12315,13 +12318,13 @@
             }
         },
         "portfolium.com": {
-            "date": 1775731384376,
+            "date": 1793275649788,
             "oembed": {
                 "rich": "deny"
             }
         },
         "riddles.com": {
-            "date": 1775130260002,
+            "date": 1793109240377,
             "twitter": {
                 "photo": "allow"
             }
@@ -12344,7 +12347,7 @@
             }
         },
         "song.link": {
-            "date": 1770722801325,
+            "date": 1792407487098,
             "oembed": {
                 "rich": [
                     "allow",
@@ -12355,7 +12358,7 @@
             }
         },
         "*.yom.net": {
-            "date": 1771334999815,
+            "date": 1792412754415,
             "oembed": {
                 "rich": "allow"
             },
@@ -12390,6 +12393,17 @@
                 "rich": [
                     "allow",
                     "responsive"
+                ]
+            }
+        },
+        "adventar.org": {
+            "date": 1792786730057,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "horizontal",
+                    "reader",
+                    "resizable"
                 ]
             }
         },
@@ -12440,7 +12454,7 @@
             }
         },
         "*.diag.net": {
-            "date": 1771340346262,
+            "date": 1792493806322,
             "html-meta": {
                 "iframely": "allow"
             }
@@ -12458,7 +12472,7 @@
             }
         },
         "gyroflow.xyz": {
-            "date": 1770904166823,
+            "date": 1792412174522,
             "html-meta": {
                 "iframely": "allow"
             }
@@ -12471,7 +12485,7 @@
             }
         },
         "cnbce.com": {
-            "date": 1774353204051,
+            "date": 1793094576323,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -12551,13 +12565,13 @@
             }
         },
         "flipbooklets.com": {
-            "date": 1771340718970,
+            "date": 1792496213597,
             "html-meta": {
                 "iframely": "allow"
             }
         },
         "*.media.eagleplatform.com": {
-            "date": 1772022919348,
+            "date": 1792581582086,
             "og": {
                 "video": [
                     "allow",
@@ -12672,7 +12686,7 @@
             }
         },
         "*.cloudflarestream.com": {
-            "date": 1776262153085,
+            "date": 1793285201274,
             "oembed": {
                 "video": [
                     "allow",
@@ -12681,12 +12695,13 @@
             }
         },
         "imgpile.com": {
-            "date": 1791338562457,
+            "date": 1792786762277,
             "oembed": {
                 "video": [
                     "allow",
                     "responsive"
-                ]
+                ],
+                "photo": "allow"
             },
             "html-meta": {
                 "embedURL": [
@@ -12713,7 +12728,7 @@
             }
         },
         "play.springin.org": {
-            "date": 1774967173802,
+            "date": 1793107039755,
             "oembed": {
                 "rich": [
                     "allow",
@@ -12745,7 +12760,7 @@
             }
         },
         "*.ictv.ua": {
-            "date": 1775129575719,
+            "date": 1793110985796,
             "html-meta": {
                 "embedURL": "deny"
             }
@@ -12817,7 +12832,7 @@
             }
         },
         "trips.furkot.com": {
-            "date": 1771340629411,
+            "date": 1792497470443,
             "html-meta": {
                 "iframely": "allow"
             }
@@ -12889,7 +12904,7 @@
             }
         },
         "*.clickviewapp.com": {
-            "date": 1776256102454,
+            "date": 1793282072342,
             "oembed": {
                 "video": [
                     "allow",
@@ -12898,7 +12913,7 @@
             }
         },
         "*.slite.page": {
-            "date": 1774962864634,
+            "date": 1793104230484,
             "oembed": {
                 "rich": [
                     "allow",
@@ -12917,12 +12932,6 @@
                     "responsive",
                     "audio"
                 ]
-            }
-        },
-        "iframely.com": {
-            "date": 1772453375981,
-            "html-meta": {
-                "iframely": "allow"
             }
         },
         "zahratalkhaleej.ae": {
@@ -12974,7 +12983,7 @@
             }
         },
         "duol.hu": {
-            "date": 1774909644448,
+            "date": 1793103913622,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -12984,7 +12993,7 @@
             }
         },
         "*.icepanel.io": {
-            "date": 1771340611249,
+            "date": 1792493640922,
             "html-meta": {
                 "iframely": [
                     "allow",
@@ -13082,7 +13091,7 @@
             }
         },
         "online.clickview.com.au": {
-            "date": 1773751868642,
+            "date": 1793022547601,
             "og": {
                 "video": [
                     "allow",
@@ -13126,7 +13135,7 @@
             }
         },
         "odesli.co": {
-            "date": 1773315169943,
+            "date": 1792666475534,
             "oembed": {
                 "rich": [
                     "allow",
@@ -13155,7 +13164,7 @@
             }
         },
         "*.api.video": {
-            "date": 1775134600281,
+            "date": 1793112303644,
             "twitter": {
                 "player": [
                     "allow",
@@ -13181,7 +13190,7 @@
             }
         },
         "*.qumucloud.com": {
-            "date": 1773665602121,
+            "date": 1792669783202,
             "twitter": {
                 "player": [
                     "allow",
@@ -13215,7 +13224,7 @@
             }
         },
         "app.storychief.io": {
-            "date": 1775140876372,
+            "date": 1793182227691,
             "oembed": {
                 "video": "deny"
             },
@@ -13238,12 +13247,11 @@
             }
         },
         "peertube.tv": {
-            "date": 1775771037191,
+            "date": 1793278798007,
             "og": {
                 "video": [
                     "allow",
-                    "responsive",
-                    "ssl"
+                    "responsive"
                 ]
             },
             "oembed": {
@@ -13267,7 +13275,7 @@
             }
         },
         "analytics.staps.digital": {
-            "date": 1776161901561,
+            "date": 1793277977211,
             "oembed": {
                 "rich": [
                     "allow",
@@ -13322,9 +13330,12 @@
             }
         },
         "dasding.de": {
-            "date": 1772627029435,
+            "date": 1792585401023,
             "twitter": {
-                "player": "deny",
+                "player": [
+                    "allow",
+                    "responsive"
+                ],
                 "stream": "allow"
             }
         },
@@ -13346,7 +13357,7 @@
             }
         },
         "skybox.blockadelabs.com": {
-            "date": 1775139218401,
+            "date": 1793114166747,
             "oembed": {
                 "rich": [
                     "allow",
@@ -13437,23 +13448,8 @@
                 ]
             }
         },
-        "mote.com": {
-            "date": 1771340782072,
-            "twitter": {
-                "player": "deny"
-            },
-            "oembed": {
-                "rich": [
-                    "allow",
-                    "player"
-                ]
-            },
-            "html-meta": {
-                "iframely": "allow"
-            }
-        },
         "feedback.frill.co": {
-            "date": 1770723772040,
+            "date": 1792407173825,
             "oembed": {
                 "rich": [
                     "allow",
@@ -13464,7 +13460,7 @@
             }
         },
         "*.frill.co": {
-            "date": 1770896267707,
+            "date": 1792411455046,
             "oembed": {
                 "rich": [
                     "allow",
@@ -13474,7 +13470,7 @@
             }
         },
         "*.sendspark.com": {
-            "date": 1771943853669,
+            "date": 1792577041753,
             "oembed": {
                 "video": [
                     "allow",
@@ -13555,7 +13551,7 @@
             }
         },
         "video.tochka.net": {
-            "date": 1772014103613,
+            "date": 1792578200310,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -13602,6 +13598,12 @@
                 ]
             }
         },
+        "iframely.com": {
+            "date": 1792584159449,
+            "html-meta": {
+                "iframely": "allow"
+            }
+        },
         "canalnet.tv": {
             "date": 1788432923353,
             "html-meta": {
@@ -13644,7 +13646,7 @@
             }
         },
         "butenunbinnen.de": {
-            "date": 1775471065050,
+            "date": 1793186440285,
             "twitter": {
                 "player": [
                     "allow",
@@ -13653,8 +13655,8 @@
                 "stream": "allow"
             }
         },
-        "muse.ai": {
-            "date": 1773844757658,
+        "skiv.com": {
+            "date": 1793025576620,
             "twitter": {
                 "player": [
                     "allow",
@@ -13664,8 +13666,7 @@
             "og": {
                 "video": [
                     "allow",
-                    "responsive",
-                    "ssl"
+                    "responsive"
                 ]
             },
             "oembed": {
@@ -13677,7 +13678,8 @@
             "html-meta": {
                 "embedURL": [
                     "allow",
-                    "responsive"
+                    "responsive",
+                    "ld_only"
                 ]
             }
         },
@@ -13701,7 +13703,7 @@
             }
         },
         "apps.cdn8.app": {
-            "date": 1771531765596,
+            "date": 1792575161454,
             "oembed": {
                 "rich": [
                     "allow",
@@ -13728,7 +13730,7 @@
             }
         },
         "*.videodelivery.net": {
-            "date": 1776262618787,
+            "date": 1793285135814,
             "oembed": {
                 "video": [
                     "allow",
@@ -13768,7 +13770,7 @@
             }
         },
         "*.flowics.com": {
-            "date": 1775729545161,
+            "date": 1793276122597,
             "oembed": {
                 "rich": [
                     "allow",
@@ -13787,7 +13789,7 @@
             }
         },
         "*.assemblrworld.com": {
-            "date": 1771340305803,
+            "date": 1792493858925,
             "oembed": {
                 "rich": [
                     "allow",
@@ -13982,21 +13984,11 @@
             }
         },
         "nanoo.tv": {
-            "date": 1772626659772,
+            "date": 1792585847328,
             "oembed": {
                 "video": [
                     "allow",
                     "responsive"
-                ]
-            }
-        },
-        "*.ply.io": {
-            "date": 1787047477193,
-            "oembed": {
-                "rich": [
-                    "allow",
-                    "horizontal",
-                    "resizable"
                 ]
             }
         },
@@ -14019,7 +14011,7 @@
             }
         },
         "app.guideflow.com": {
-            "date": 1771341088382,
+            "date": 1792499509866,
             "oembed": {
                 "rich": [
                     "allow",
@@ -14035,7 +14027,7 @@
             }
         },
         "album.link": {
-            "date": 1770722778902,
+            "date": 1792407524146,
             "oembed": {
                 "rich": [
                     "allow",
@@ -14046,7 +14038,7 @@
             }
         },
         "*.vplay.media": {
-            "date": 1775140907648,
+            "date": 1793184224564,
             "twitter": {
                 "player": [
                     "allow",
@@ -14081,7 +14073,7 @@
             }
         },
         "web3isgoinggreat.com": {
-            "date": 1772721154969,
+            "date": 1792588741231,
             "oembed": {
                 "rich": [
                     "allow",
@@ -14102,16 +14094,6 @@
                 ]
             }
         },
-        "structurizr.com": {
-            "date": 1773145500164,
-            "oembed": {
-                "rich": [
-                    "allow",
-                    "horizontal",
-                    "resizable"
-                ]
-            }
-        },
         "footpathapp.com": {
             "date": 1779192373677,
             "oembed": {
@@ -14123,7 +14105,7 @@
             }
         },
         "*.wizer.me": {
-            "date": 1776180567250,
+            "date": 1793276470410,
             "oembed": {
                 "rich": [
                     "allow",
@@ -14170,8 +14152,8 @@
                 ]
             }
         },
-        "app.mote.com": {
-            "date": 1791333046105,
+        "*.mote.com": {
+            "date": 1792495134828,
             "html-meta": {
                 "iframely": "allow"
             },
@@ -14247,7 +14229,7 @@
             }
         },
         "*.schedulehero.io": {
-            "date": 1773840436193,
+            "date": 1793024453753,
             "oembed": {
                 "rich": [
                     "allow",
@@ -14305,7 +14287,7 @@
             }
         },
         "lazampa.it": {
-            "date": 1771942798379,
+            "date": 1792578032019,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -14325,7 +14307,7 @@
             }
         },
         "rating.wiserreview.com": {
-            "date": 1772444248183,
+            "date": 1792584281378,
             "html-meta": {
                 "iframely": "allow"
             },
@@ -14465,7 +14447,7 @@
             }
         },
         "radiomixer.net": {
-            "date": 1773595468282,
+            "date": 1792666758555,
             "oembed": {
                 "rich": [
                     "allow",
@@ -14476,9 +14458,33 @@
             }
         },
         "insights.spire.com": {
-            "date": 1771340699110,
+            "date": 1792496895774,
             "html-meta": {
                 "iframely": "allow"
+            }
+        },
+        "3speak.tv": {
+            "date": 1792411907131,
+            "twitter": {
+                "player": [
+                    "allow",
+                    "responsive"
+                ]
+            },
+            "og": {
+                "video": [
+                    "allow",
+                    "responsive"
+                ]
+            },
+            "oembed": {
+                "video": [
+                    "allow",
+                    "responsive"
+                ]
+            },
+            "html-meta": {
+                "embedURL": "deny"
             }
         },
         "*.web.tv": {
@@ -14613,7 +14619,7 @@
             }
         },
         "buku.io": {
-            "date": 1774964630872,
+            "date": 1793105249520,
             "oembed": {
                 "rich": [
                     "allow",
@@ -14623,7 +14629,7 @@
             }
         },
         "slideslive.com": {
-            "date": 1771340739853,
+            "date": 1792495796168,
             "oembed": {
                 "video": [
                     "allow",
@@ -14649,12 +14655,9 @@
             }
         },
         "app.modjo.ai": {
-            "date": 1775470853068,
+            "date": 1793190689085,
             "oembed": {
-                "video": [
-                    "allow",
-                    "responsive"
-                ]
+                "video": "deny"
             },
             "og": {
                 "video": "allow"
@@ -14785,13 +14788,13 @@
             }
         },
         "api.cleanshot.cloud": {
-            "date": 1772050928954,
+            "date": 1792584750579,
             "oembed": {
                 "photo": "allow"
             }
         },
         "val.town": {
-            "date": 1771340761580,
+            "date": 1792495231817,
             "html-meta": {
                 "iframely": "allow"
             }
@@ -14840,7 +14843,7 @@
             }
         },
         "*.podcloud.fr": {
-            "date": 1772012287939,
+            "date": 1792578367495,
             "twitter": {
                 "stream": "deny",
                 "player": [
@@ -14880,12 +14883,9 @@
             }
         },
         "worldviewtube.com": {
-            "date": 1772622280681,
+            "date": 1792586009078,
             "twitter": {
-                "player": [
-                    "allow",
-                    "responsive"
-                ]
+                "player": "deny"
             },
             "og": {
                 "video": "allow"
@@ -14917,7 +14917,7 @@
             }
         },
         "wordsearchlabs.com": {
-            "date": 1770896011276,
+            "date": 1792411558062,
             "oembed": {
                 "rich": [
                     "allow",
@@ -14926,7 +14926,7 @@
             }
         },
         "flowhub.org": {
-            "date": 1772721190712,
+            "date": 1792588726651,
             "oembed": {
                 "rich": [
                     "allow",
@@ -14974,7 +14974,7 @@
             }
         },
         "zengatv.com": {
-            "date": 1770721426860,
+            "date": 1792408234317,
             "og": {
                 "video": "deny"
             }
@@ -15026,7 +15026,7 @@
             }
         },
         "app.shapo.io": {
-            "date": 1771943029539,
+            "date": 1792577958014,
             "html-meta": {
                 "iframely": "allow"
             }
@@ -15083,7 +15083,7 @@
             }
         },
         "*.dealr.cloud": {
-            "date": 1771340881333,
+            "date": 1792499744508,
             "og": {
                 "video": "deny"
             },
@@ -15098,7 +15098,7 @@
             }
         },
         "*.letscast.fm": {
-            "date": 1775140007941,
+            "date": 1793114133856,
             "twitter": {
                 "player": [
                     "allow",
@@ -15109,7 +15109,7 @@
             }
         },
         "*.podbean.com": {
-            "date": 1789045795921,
+            "date": 1792786927519,
             "twitter": {
                 "player": [
                     "allow",
@@ -15123,7 +15123,14 @@
                     "player",
                     "horizontal",
                     "audio"
+                ],
+                "video": [
+                    "allow",
+                    "responsive"
                 ]
+            },
+            "og": {
+                "video": "allow"
             }
         },
         "statusisdown.com": {
@@ -15182,9 +15189,20 @@
             }
         },
         "lab.learncube.com": {
-            "date": 1770813247148,
+            "date": 1792407062485,
             "html-meta": {
                 "iframely": "allow"
+            }
+        },
+        "calculatorlib.com": {
+            "date": 1792008955756,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "horizontal",
+                    "reader",
+                    "resizable"
+                ]
             }
         },
         "symphony.to": {
@@ -15220,8 +15238,19 @@
                 ]
             }
         },
+        "app.userevidence.com": {
+            "date": 1792076526665,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "horizontal",
+                    "reader",
+                    "resizable"
+                ]
+            }
+        },
         "codeply.com": {
-            "date": 1774366031620,
+            "date": 1793103741150,
             "oembed": {
                 "rich": "deny"
             }
@@ -15233,6 +15262,17 @@
                     "allow",
                     "inline",
                     "ssl"
+                ]
+            }
+        },
+        "altftool.com": {
+            "date": 1793283148985,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "horizontal",
+                    "reader",
+                    "resizable"
                 ]
             }
         },
@@ -15349,7 +15389,7 @@
             }
         },
         "meet.arrows.to": {
-            "date": 1775133047802,
+            "date": 1793112672420,
             "oembed": {
                 "rich": [
                     "allow",
@@ -15464,7 +15504,7 @@
             }
         },
         "playout.3qsdn.com": {
-            "date": 1774964534883,
+            "date": 1793105284823,
             "og": {
                 "video": [
                     "allow",
@@ -15480,6 +15520,17 @@
                     "allow",
                     "inline",
                     "ssl"
+                ]
+            }
+        },
+        "*.typeform.eu": {
+            "date": 1793024323600,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "horizontal",
+                    "reader",
+                    "resizable"
                 ]
             }
         },
@@ -15524,8 +15575,17 @@
                 ]
             }
         },
+        "satcat.com": {
+            "date": 1792786964361,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "responsive"
+                ]
+            }
+        },
         "*.trainn.co": {
-            "date": 1775138938825,
+            "date": 1793114549824,
             "og": {
                 "video": "deny"
             },
@@ -15560,7 +15620,7 @@
             }
         },
         "podmaz.sk": {
-            "date": 1773317963725,
+            "date": 1792666044854,
             "oembed": {
                 "video": "allow"
             }
@@ -15674,7 +15734,7 @@
             }
         },
         "*.heymarvin.com": {
-            "date": 1774967046018,
+            "date": 1793105967679,
             "oembed": {
                 "video": [
                     "allow",
@@ -15781,7 +15841,7 @@
             }
         },
         "pressakey.com": {
-            "date": 1770820166584,
+            "date": 1792411119117,
             "twitter": {
                 "player": [
                     "allow",
@@ -15796,7 +15856,7 @@
             }
         },
         "evt.live": {
-            "date": 1772011860900,
+            "date": 1792578566509,
             "twitter": {
                 "player": [
                     "allow",
@@ -15832,19 +15892,8 @@
                 ]
             }
         },
-        "*.typeform.eu": {
-            "date": 1773840545283,
-            "oembed": {
-                "rich": [
-                    "allow",
-                    "horizontal",
-                    "reader",
-                    "resizable"
-                ]
-            }
-        },
         "swebbtv.se": {
-            "date": 1775469336825,
+            "date": 1793284321018,
             "oembed": {
                 "video": [
                     "allow",
@@ -15897,12 +15946,11 @@
             }
         },
         "videa.hu": {
-            "date": 1770819347018,
+            "date": 1792408366740,
             "oembed": {
                 "video": [
                     "allow",
-                    "responsive",
-                    "ssl"
+                    "responsive"
                 ]
             },
             "twitter": {
@@ -15930,8 +15978,21 @@
                 "video": "allow"
             }
         },
+        "moddex.gg": {
+            "date": 1792009239524,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "horizontal",
+                    "resizable"
+                ]
+            },
+            "html-meta": {
+                "iframely": "allow"
+            }
+        },
         "flourish-user-preview.com": {
-            "date": 1770818638958,
+            "date": 1792408488532,
             "oembed": {
                 "rich": [
                     "allow",
@@ -16051,7 +16112,7 @@
             }
         },
         "*.kuula.io": {
-            "date": 1774355446872,
+            "date": 1793095425589,
             "twitter": {
                 "player": [
                     "allow",
@@ -16075,7 +16136,7 @@
             }
         },
         "snippet.uilicious.com": {
-            "date": 1773144036692,
+            "date": 1792591272159,
             "oembed": {
                 "rich": "deny"
             }
@@ -16113,7 +16174,7 @@
             }
         },
         "motionshot.app": {
-            "date": 1771340862892,
+            "date": 1792494840954,
             "html-meta": {
                 "iframely": "allow"
             }
@@ -16139,7 +16200,7 @@
             }
         },
         "limited.learno.jp": {
-            "date": 1771943528721,
+            "date": 1792577912840,
             "twitter": {
                 "player": [
                     "allow",
@@ -16159,7 +16220,7 @@
             }
         },
         "*.eko.com": {
-            "date": 1773843608408,
+            "date": 1793023925562,
             "oembed": {
                 "video": [
                     "allow",
@@ -16190,7 +16251,7 @@
             }
         },
         "grouper.school": {
-            "date": 1772740336163,
+            "date": 1792589446789,
             "oembed": {
                 "rich": [
                     "allow",
@@ -16234,7 +16295,7 @@
             }
         },
         "*.vntana.com": {
-            "date": 1771341112899,
+            "date": 1792498420900,
             "html-meta": {
                 "iframely": "allow"
             }
@@ -16355,9 +16416,19 @@
             }
         },
         "w.viscuit.com": {
-            "date": 1771855998193,
+            "date": 1792578103503,
             "html-meta": {
                 "iframely": "allow"
+            }
+        },
+        "uatube.net": {
+            "date": 1793011535107,
+            "html-meta": {
+                "embedURL": [
+                    "allow",
+                    "responsive",
+                    "ld_only"
+                ]
             }
         },
         "makecode.chibitronics.com": {
@@ -16380,13 +16451,13 @@
             }
         },
         "bazaarbear.co": {
-            "date": 1774963443447,
+            "date": 1793104689780,
             "html-meta": {
                 "iframely": "allow"
             }
         },
         "*.revenuehero.io": {
-            "date": 1773840438174,
+            "date": 1793024403194,
             "oembed": {
                 "rich": [
                     "allow",
@@ -16422,19 +16493,12 @@
             }
         },
         "texasarchive.org": {
-            "date": 1773665435379,
+            "date": 1793013853579,
             "html-meta": {
-                "embedURL": [
-                    "allow",
-                    "responsive",
-                    "ld_only"
-                ]
+                "embedURL": "deny"
             },
             "og": {
-                "video": [
-                    "allow",
-                    "responsive"
-                ]
+                "video": "deny"
             }
         },
         "*.rooom.com": {
@@ -16462,6 +16526,15 @@
                     "allow",
                     "responsive",
                     "ld_only"
+                ]
+            }
+        },
+        "instaplay.ai": {
+            "date": 1792786700199,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "responsive"
                 ]
             }
         },
@@ -16500,17 +16573,18 @@
                 ]
             }
         },
-        "app.wellcomemat.com": {
-            "date": 1791845729587,
+        "*.wellcomemat.com": {
+            "date": 1793187164755,
             "html-meta": {
                 "embedURL": [
                     "allow",
                     "responsive",
                     "ld_only"
-                ]
+                ],
+                "video": "deny"
             },
             "og": {
-                "video": "allow"
+                "video": "deny"
             },
             "twitter": {
                 "player": [
@@ -16635,7 +16709,7 @@
             }
         },
         "*.ubicast.tv": {
-            "date": 1775656530833,
+            "date": 1793188411912,
             "oembed": {
                 "video": [
                     "allow",
@@ -16665,7 +16739,7 @@
             }
         },
         "app.airtimetools.com": {
-            "date": 1771855960328,
+            "date": 1792575151734,
             "twitter": {
                 "player": [
                     "allow",
@@ -16746,7 +16820,7 @@
             }
         },
         "*.eventscalendar.co": {
-            "date": 1772026731536,
+            "date": 1792580871252,
             "html-meta": {
                 "iframely": "allow"
             },
@@ -16767,7 +16841,7 @@
             }
         },
         "classhook.com": {
-            "date": 1771500652336,
+            "date": 1792504162472,
             "twitter": {
                 "player": [
                     "allow",
@@ -16788,27 +16862,6 @@
             },
             "twitter": {
                 "photo": "allow"
-            }
-        },
-        "www.wellcomemat.com": {
-            "date": 1775656643506,
-            "og": {
-                "video": "deny"
-            },
-            "html-meta": {
-                "video": "deny",
-                "embedURL": [
-                    "allow",
-                    "responsive",
-                    "ld_only"
-                ]
-            },
-            "twitter": {
-                "stream": "deny",
-                "player": [
-                    "allow",
-                    "responsive"
-                ]
             }
         },
         "app.logora.fr": {
@@ -16881,9 +16934,9 @@
             }
         },
         "*.graswald.ai": {
-            "date": 1785403387526,
+            "date": 1792594150291,
             "html-meta": {
-                "iframely": "allow"
+                "iframely": "deny"
             }
         },
         "klipy.com": {
@@ -17006,7 +17059,7 @@
             }
         },
         "azuracast.com": {
-            "date": 1773327943507,
+            "date": 1792667183966,
             "oembed": {
                 "rich": [
                     "allow",
@@ -17042,7 +17095,7 @@
             }
         },
         "online.slidehtml5.com": {
-            "date": 1775469163570,
+            "date": 1793190721093,
             "twitter": {
                 "player": [
                     "allow",
@@ -17094,7 +17147,7 @@
             }
         },
         "player.stornaway.io": {
-            "date": 1773317978551,
+            "date": 1792666021869,
             "twitter": {
                 "player": [
                     "allow",
@@ -17145,7 +17198,7 @@
             }
         },
         "*.streamalive.com": {
-            "date": 1774251964325,
+            "date": 1793028999138,
             "oembed": {
                 "rich": [
                     "allow",
@@ -17218,7 +17271,7 @@
             }
         },
         "player.myvideoplace.tv": {
-            "date": 1773136193970,
+            "date": 1792591311957,
             "oembed": {
                 "video": "deny"
             }
@@ -17234,7 +17287,7 @@
             }
         },
         "*.collect.chat": {
-            "date": 1775472514852,
+            "date": 1793185770138,
             "oembed": {
                 "rich": [
                     "allow",
@@ -17280,7 +17333,7 @@
             }
         },
         "lamscommunity.org": {
-            "date": 1771342324099,
+            "date": 1792501307084,
             "oembed": {
                 "rich": [
                     "allow",
@@ -17311,7 +17364,7 @@
             }
         },
         "*.meet.ps": {
-            "date": 1770904555673,
+            "date": 1792413164236,
             "html-meta": {
                 "iframely": [
                     "allow",
@@ -17320,7 +17373,7 @@
             }
         },
         "gamemick.com": {
-            "date": 1771341768265,
+            "date": 1792497735004,
             "oembed": {
                 "rich": "allow"
             },
@@ -17329,7 +17382,7 @@
             }
         },
         "lucidgov.app": {
-            "date": 1776254838914,
+            "date": 1793282692197,
             "oembed": {
                 "rich": [
                     "allow",
@@ -17360,7 +17413,7 @@
             }
         },
         "*.apester.com": {
-            "date": 1774364305049,
+            "date": 1793103758160,
             "oembed": {
                 "rich": [
                     "allow",
@@ -17370,7 +17423,7 @@
             }
         },
         "chartbrick.com": {
-            "date": 1774964253782,
+            "date": 1793104674873,
             "oembed": {
                 "rich": [
                     "allow",
@@ -17405,7 +17458,7 @@
             }
         },
         "piggy.to": {
-            "date": 1773326365382,
+            "date": 1792667575999,
             "oembed": {
                 "rich": [
                     "allow",
@@ -17426,7 +17479,7 @@
             }
         },
         "watchclueso.com": {
-            "date": 1773735633471,
+            "date": 1793012373221,
             "oembed": {
                 "video": [
                     "allow",
@@ -17483,8 +17536,33 @@
                 "video": "deny"
             }
         },
+        "inspireclicks.co": {
+            "date": 1792068576063,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "horizontal",
+                    "resizable"
+                ]
+            },
+            "html-meta": {
+                "iframely": [
+                    "allow",
+                    "resizable"
+                ]
+            }
+        },
+        "playback.tv": {
+            "date": 1792009134929,
+            "oembed": {
+                "video": [
+                    "allow",
+                    "responsive"
+                ]
+            }
+        },
         "bookingmood.com": {
-            "date": 1775651418725,
+            "date": 1793189540335,
             "oembed": {
                 "rich": [
                     "allow",
@@ -17495,7 +17573,7 @@
             }
         },
         "*.datarhei.com": {
-            "date": 1774358929104,
+            "date": 1793096853264,
             "oembed": {
                 "video": [
                     "allow",
@@ -17684,7 +17762,7 @@
             }
         },
         "*.ustudio.com": {
-            "date": 1771502096000,
+            "date": 1792576027881,
             "oembed": {
                 "video": [
                     "allow",
@@ -17700,7 +17778,7 @@
             }
         },
         "greenandblue.it": {
-            "date": 1772636620683,
+            "date": 1792585064235,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -17720,22 +17798,12 @@
             }
         },
         "*.solidtango.com": {
-            "date": 1771946971103,
-            "twitter": {
-                "player": [
-                    "allow",
-                    "responsive",
-                    "autoplay"
-                ]
-            },
+            "date": 1792579479993,
             "oembed": {
                 "video": [
                     "allow",
                     "responsive"
                 ]
-            },
-            "og": {
-                "video": "deny"
             }
         },
         "instacalc.com": {
@@ -17759,7 +17827,7 @@
             }
         },
         "staging.squeeg.ee": {
-            "date": 1771341259704,
+            "date": 1792497893089,
             "html-meta": {
                 "iframely": "allow"
             }
@@ -17803,7 +17871,7 @@
             }
         },
         "*.dotcompal.co": {
-            "date": 1775469144210,
+            "date": 1793182972608,
             "og": {
                 "video": [
                     "allow",
@@ -17838,7 +17906,7 @@
             }
         },
         "player.castr.io": {
-            "date": 1775140984902,
+            "date": 1793183937165,
             "og": {
                 "video": [
                     "allow",
@@ -17855,7 +17923,7 @@
             }
         },
         "koinovo.ru": {
-            "date": 1775127906215,
+            "date": 1793113152534,
             "twitter": {
                 "player": [
                     "allow",
@@ -17888,7 +17956,7 @@
             }
         },
         "orbitvu.co": {
-            "date": 1770721344305,
+            "date": 1792408270387,
             "twitter": {
                 "player": "deny"
             },
@@ -17941,7 +18009,7 @@
             }
         },
         "testing-playground.com": {
-            "date": 1772626802381,
+            "date": 1792585701931,
             "oembed": {
                 "rich": "deny"
             }
@@ -17999,7 +18067,7 @@
             }
         },
         "artscapy.com": {
-            "date": 1775138823869,
+            "date": 1793114563903,
             "oembed": {
                 "rich": "deny"
             }
@@ -18048,7 +18116,7 @@
             }
         },
         "*.soar.earth": {
-            "date": 1771340516046,
+            "date": 1792493751529,
             "html-meta": {
                 "iframely": "allow"
             }
@@ -18082,7 +18150,7 @@
             }
         },
         "ampwall.com": {
-            "date": 1774354057004,
+            "date": 1793094461412,
             "twitter": {
                 "stream": "deny",
                 "player": [
@@ -18140,7 +18208,7 @@
             }
         },
         "video.snapstream.net": {
-            "date": 1770893659071,
+            "date": 1792409339903,
             "twitter": {
                 "player": [
                     "allow",
@@ -18187,7 +18255,7 @@
             }
         },
         "*.neetorecord.com": {
-            "date": 1772721576795,
+            "date": 1792590945120,
             "oembed": {
                 "video": [
                     "allow",
@@ -18242,7 +18310,7 @@
             }
         },
         "good-for-job.jp": {
-            "date": 1772024067396,
+            "date": 1792580983744,
             "oembed": {
                 "rich": [
                     "allow",
@@ -18416,7 +18484,7 @@
             }
         },
         "clueso.site": {
-            "date": 1773735637838,
+            "date": 1793012352411,
             "twitter": {
                 "stream": "deny",
                 "player": [
@@ -18590,12 +18658,18 @@
             }
         },
         "*.trll.io": {
-            "date": 1771341822007,
-            "twitter": {
-                "player": "deny"
-            },
+            "date": 1792501226615,
             "html-meta": {
                 "iframely": "allow"
+            }
+        },
+        "planefyi.com": {
+            "date": 1792009071984,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "horizontal"
+                ]
             }
         },
         "*.sway.com": {
@@ -18640,7 +18714,7 @@
             }
         },
         "*.groupfile.link": {
-            "date": 1773754694575,
+            "date": 1793021962264,
             "oembed": {
                 "rich": [
                     "allow",
@@ -18679,7 +18753,7 @@
             }
         },
         "*.usehexus.com": {
-            "date": 1771341843426,
+            "date": 1792500962537,
             "oembed": {
                 "rich": "deny"
             },
@@ -18715,7 +18789,7 @@
             }
         },
         "made.withalpaca.travel": {
-            "date": 1771495658288,
+            "date": 1792505698558,
             "oembed": {
                 "rich": [
                     "allow",
@@ -18778,7 +18852,7 @@
             }
         },
         "videobot.com": {
-            "date": 1772737393416,
+            "date": 1792590804712,
             "html-meta": {
                 "iframely": "allow",
                 "embedURL": "deny"
@@ -18794,6 +18868,9 @@
                     "allow",
                     "responsive"
                 ]
+            },
+            "oembed": {
+                "video": "deny"
             }
         },
         "app.learnbrite.com": {
@@ -18860,7 +18937,7 @@
             }
         },
         "app.simplerstory.com": {
-            "date": 1775649177606,
+            "date": 1793189898978,
             "oembed": {
                 "rich": [
                     "allow",
@@ -18898,7 +18975,7 @@
             }
         },
         "app.jenmusic.ai": {
-            "date": 1774964766523,
+            "date": 1793105745571,
             "twitter": {
                 "player": [
                     "allow",
@@ -18909,7 +18986,7 @@
             }
         },
         "*.jwplatform.com": {
-            "date": 1772455618145,
+            "date": 1792584146313,
             "og": {
                 "video": [
                     "allow",
@@ -18935,31 +19012,6 @@
                 ]
             }
         },
-        "*.streambliss.cloud": {
-            "date": 1773052868879,
-            "oembed": {
-                "video": [
-                    "allow",
-                    "responsive",
-                    "autoplay",
-                    "accept"
-                ]
-            },
-            "og": {
-                "video": [
-                    "allow",
-                    "responsive",
-                    "autoplay"
-                ]
-            },
-            "twitter": {
-                "player": [
-                    "allow",
-                    "responsive",
-                    "autoplay"
-                ]
-            }
-        },
         "mixposure.com": {
             "date": 1791900777135,
             "twitter": {
@@ -18973,13 +19025,13 @@
             }
         },
         "*.betterimages.ai": {
-            "date": 1771343018170,
+            "date": 1792503677997,
             "html-meta": {
                 "iframely": "allow"
             }
         },
         "altube.ru": {
-            "date": 1775467107060,
+            "date": 1793183497208,
             "twitter": {
                 "player": [
                     "allow",
@@ -19010,7 +19062,7 @@
             }
         },
         "*.cortico.ai": {
-            "date": 1771341587750,
+            "date": 1792497801241,
             "oembed": {
                 "rich": [
                     "allow",
@@ -19044,7 +19096,7 @@
             }
         },
         "widget.vaxx.nz": {
-            "date": 1773234932923,
+            "date": 1792593573351,
             "oembed": {
                 "rich": [
                     "allow",
@@ -19150,6 +19202,15 @@
                 ]
             }
         },
+        "brainpickle.app": {
+            "date": 1792611388764,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "horizontal"
+                ]
+            }
+        },
         "cap.so": {
             "date": 1785788807261,
             "og": {
@@ -19183,7 +19244,7 @@
             }
         },
         "*.pitchhub.com": {
-            "date": 1773136657677,
+            "date": 1792591276330,
             "oembed": {
                 "video": [
                     "allow",
@@ -19231,7 +19292,7 @@
             }
         },
         "livid.com": {
-            "date": 1774251804354,
+            "date": 1793029113956,
             "twitter": {
                 "player": [
                     "allow",
@@ -19248,6 +19309,13 @@
                 "video": [
                     "allow",
                     "responsive"
+                ]
+            },
+            "html-meta": {
+                "embedURL": [
+                    "allow",
+                    "responsive",
+                    "ld_only"
                 ]
             }
         },
@@ -19324,6 +19392,25 @@
                 "player": "deny"
             }
         },
+        "starsinger.ai": {
+            "date": 1792009097328,
+            "twitter": {
+                "player": [
+                    "allow",
+                    "audio",
+                    "horizontal"
+                ],
+                "stream": "allow"
+            },
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "player",
+                    "horizontal",
+                    "audio"
+                ]
+            }
+        },
         "soundloop.app": {
             "date": 1780085359465,
             "twitter": {
@@ -19341,6 +19428,15 @@
                     "allow",
                     "horizontal",
                     "audio"
+                ]
+            }
+        },
+        "quicklineup.com": {
+            "date": 1793288890713,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "responsive"
                 ]
             }
         },
@@ -19384,13 +19480,13 @@
             }
         },
         "events.virtual-tech.io": {
-            "date": 1771341923736,
+            "date": 1792500796540,
             "html-meta": {
                 "iframely": "allow"
             }
         },
         "rai77.com": {
-            "date": 1776256287160,
+            "date": 1793280311770,
             "og": {
                 "video": [
                     "allow",
@@ -19410,9 +19506,15 @@
             }
         },
         "lottie.host": {
-            "date": 1772721284382,
+            "date": 1792587725794,
             "oembed": {
                 "video": [
+                    "allow",
+                    "responsive"
+                ]
+            },
+            "twitter": {
+                "player": [
                     "allow",
                     "responsive"
                 ]
@@ -19475,7 +19577,7 @@
             }
         },
         "downpour.games": {
-            "date": 1771341800119,
+            "date": 1792501260269,
             "oembed": {
                 "rich": [
                     "allow",
@@ -19484,19 +19586,6 @@
             },
             "html-meta": {
                 "iframely": "allow"
-            }
-        },
-        "app.fora.io": {
-            "date": 1771341969767,
-            "oembed": {
-                "rich": [
-                    "allow",
-                    "horizontal",
-                    "resizable"
-                ]
-            },
-            "html-meta": {
-                "iframely": "deny"
             }
         },
         "*.mazing.link": {
@@ -19511,7 +19600,7 @@
             }
         },
         "*.wirewax.com": {
-            "date": 1776178826134,
+            "date": 1793277900421,
             "twitter": {
                 "player": [
                     "allow",
@@ -19695,7 +19784,7 @@
             }
         },
         "twillo.de": {
-            "date": 1770904822095,
+            "date": 1792413145626,
             "oembed": {
                 "rich": [
                     "allow",
@@ -19791,7 +19880,7 @@
             }
         },
         "embeds.mediastorm.com": {
-            "date": 1774359618316,
+            "date": 1793103048567,
             "oembed": {
                 "rich": [
                     "allow",
@@ -19806,7 +19895,7 @@
             }
         },
         "mediastorm.com": {
-            "date": 1774359597048,
+            "date": 1793096417882,
             "oembed": {
                 "rich": "deny"
             },
@@ -19815,7 +19904,7 @@
             }
         },
         "vizdom.dev": {
-            "date": 1773751967599,
+            "date": 1793022538237,
             "html-meta": {
                 "iframely": [
                     "allow",
@@ -19837,7 +19926,7 @@
             }
         },
         "shiftx.com": {
-            "date": 1770721947604,
+            "date": 1792408074635,
             "oembed": {
                 "rich": [
                     "allow",
@@ -19845,14 +19934,8 @@
                 ]
             }
         },
-        "app.gra.fo": {
-            "date": 1773061017287,
-            "oembed": {
-                "photo": "allow"
-            }
-        },
         "forms.form-data.com": {
-            "date": 1771946150995,
+            "date": 1792580431322,
             "oembed": {
                 "rich": [
                     "allow",
@@ -19876,16 +19959,6 @@
                 ]
             }
         },
-        "design.dghome3d.com": {
-            "date": 1788358078988,
-            "oembed": {
-                "rich": [
-                    "allow",
-                    "responsive",
-                    "3d"
-                ]
-            }
-        },
         "create.visage.co": {
             "date": 1784037454425,
             "twitter": {
@@ -19902,7 +19975,7 @@
             }
         },
         "apps.sharemyimage.com": {
-            "date": 1775648621822,
+            "date": 1793190160967,
             "twitter": {
                 "photo": "allow"
             },
@@ -19925,7 +19998,7 @@
             }
         },
         "schem.io": {
-            "date": 1775655008492,
+            "date": 1793189407098,
             "oembed": {
                 "rich": [
                     "allow",
@@ -19944,7 +20017,7 @@
             }
         },
         "vimp.com": {
-            "date": 1775468994574,
+            "date": 1793183025450,
             "twitter": {
                 "player": [
                     "allow",
@@ -19966,13 +20039,13 @@
             }
         },
         "*.citia.com": {
-            "date": 1772015197002,
+            "date": 1792581606185,
             "html-meta": {
                 "iframely": "allow"
             }
         },
         "scripttag.statechange.ai": {
-            "date": 1771342048383,
+            "date": 1792502354982,
             "oembed": {
                 "rich": [
                     "allow",
@@ -20131,7 +20204,7 @@
             }
         },
         "app.courseau.co": {
-            "date": 1771342003236,
+            "date": 1792502718833,
             "html-meta": {
                 "iframely": [
                     "allow",
@@ -20161,7 +20234,7 @@
             }
         },
         "ilgusto.it": {
-            "date": 1772737521497,
+            "date": 1792589956785,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -20205,7 +20278,7 @@
             }
         },
         "mysqlexplain.com": {
-            "date": 1771943345922,
+            "date": 1792577922100,
             "oembed": {
                 "rich": [
                     "allow",
@@ -20272,7 +20345,7 @@
             }
         },
         "codeit.codes": {
-            "date": 1771342110949,
+            "date": 1792502277007,
             "twitter": {
                 "player": "deny"
             },
@@ -20380,7 +20453,7 @@
             }
         },
         "portal.wovenmedia.com": {
-            "date": 1771500778280,
+            "date": 1792576462087,
             "oembed": {
                 "video": [
                     "allow",
@@ -20547,7 +20620,7 @@
             }
         },
         "blocks.glass": {
-            "date": 1771341868066,
+            "date": 1792500872232,
             "twitter": {
                 "player": "deny"
             },
@@ -20589,7 +20662,7 @@
             }
         },
         "fyuse.com": {
-            "date": 1770893839039,
+            "date": 1792409298047,
             "twitter": {
                 "player": [
                     "allow",
@@ -20599,7 +20672,7 @@
             }
         },
         "www.bastamag.net": {
-            "date": 1770901080278,
+            "date": 1792411169406,
             "oembed": {
                 "rich": "deny"
             }
@@ -20628,7 +20701,7 @@
             }
         },
         "app.joinpalette.com": {
-            "date": 1776178403515,
+            "date": 1793277957893,
             "oembed": {
                 "rich": [
                     "allow",
@@ -20638,7 +20711,7 @@
             }
         },
         "*.goobi.io": {
-            "date": 1775649422859,
+            "date": 1793189653235,
             "oembed": {
                 "photo": "allow"
             },
@@ -20647,7 +20720,7 @@
             }
         },
         "play.dyntube.io": {
-            "date": 1774355017241,
+            "date": 1793095248543,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -20687,17 +20760,6 @@
                     "responsive",
                     "autoplay"
                 ]
-            }
-        },
-        "*.showcache.io": {
-            "date": 1773747360857,
-            "twitter": {
-                "player": [
-                    "allow",
-                    "responsive",
-                    "autoplay"
-                ],
-                "stream": "allow"
             }
         },
         "thort.space": {
@@ -20812,7 +20874,7 @@
             }
         },
         "arena.arol.dev": {
-            "date": 1771341902613,
+            "date": 1792500827852,
             "html-meta": {
                 "iframely": "allow"
             }
@@ -20849,10 +20911,7 @@
             }
         },
         "ense.nyc": {
-            "date": 1771342153563,
-            "twitter": {
-                "player": "deny"
-            },
+            "date": 1792501598713,
             "html-meta": {
                 "iframely": "deny"
             }
@@ -20888,17 +20947,6 @@
                 ]
             }
         },
-        "capture.jellyreach.com": {
-            "date": 1776252686223,
-            "oembed": {
-                "rich": [
-                    "allow",
-                    "horizontal",
-                    "reader",
-                    "resizable"
-                ]
-            }
-        },
         "binumi.com": {
             "date": 1791388015165,
             "twitter": {
@@ -20921,7 +20969,7 @@
             }
         },
         "learn.courso.app": {
-            "date": 1770900858135,
+            "date": 1792411180830,
             "oembed": {
                 "rich": [
                     "allow",
@@ -21099,7 +21147,7 @@
             }
         },
         "*.slideslive.cz": {
-            "date": 1771342379891,
+            "date": 1792503914684,
             "oembed": {
                 "video": [
                     "allow",
@@ -21134,20 +21182,8 @@
                 ]
             }
         },
-        "webtvdoc.fr": {
-            "date": 1775126565752,
-            "og": {
-                "video": [
-                    "allow",
-                    "responsive"
-                ]
-            },
-            "html-meta": {
-                "embedURL": "deny"
-            }
-        },
         "zoerr.de": {
-            "date": 1775139156257,
+            "date": 1793114370084,
             "oembed": {
                 "rich": [
                     "allow",
@@ -21167,7 +21203,7 @@
             }
         },
         "pods.link": {
-            "date": 1770813867892,
+            "date": 1792407022656,
             "oembed": {
                 "rich": [
                     "allow",
@@ -21307,26 +21343,8 @@
                 ]
             }
         },
-        "app.rally.space": {
-            "date": 1772460188157,
-            "oembed": {
-                "video": [
-                    "allow",
-                    "responsive"
-                ]
-            },
-            "html-meta": {
-                "embedURL": [
-                    "allow",
-                    "ld_only"
-                ]
-            },
-            "twitter": {
-                "player": "deny"
-            }
-        },
         "*.storylane.us": {
-            "date": 1771343040993,
+            "date": 1792503370751,
             "twitter": {
                 "player": "deny"
             },
@@ -21342,7 +21360,7 @@
             }
         },
         "ten7.im": {
-            "date": 1771343062487,
+            "date": 1792503326122,
             "oembed": {
                 "video": [
                     "allow",
@@ -21405,26 +21423,12 @@
                 ]
             }
         },
-        "*.videocdn.net": {
-            "date": 1791297628577,
-            "oembed": {
-                "video": [
-                    "allow",
-                    "responsive"
-                ]
-            }
-        },
-        "rehearsable.ai": {
-            "date": 1791978888159,
-            "html-meta": {
-                "iframely": "allow"
-            }
-        },
         "forms.claims": {
-            "date": 1771946995750,
+            "date": 1792579371705,
             "oembed": {
                 "rich": [
                     "allow",
+                    "horizontal",
                     "reader",
                     "resizable"
                 ]
@@ -21486,7 +21490,7 @@
             }
         },
         "fillio.so": {
-            "date": 1772720976133,
+            "date": 1792589031735,
             "oembed": {
                 "rich": [
                     "allow",
@@ -21524,16 +21528,6 @@
                 ]
             }
         },
-        "app.daywisebooking.com": {
-            "date": 1791889835363,
-            "oembed": {
-                "rich": [
-                    "allow",
-                    "horizontal",
-                    "resizable"
-                ]
-            }
-        },
         "captuto.com": {
             "date": 1791980459018,
             "oembed": {
@@ -21545,7 +21539,7 @@
             }
         },
         "svgcountdowns.com": {
-            "date": 1771349069595,
+            "date": 1792503248363,
             "oembed": {
                 "rich": [
                     "allow",
@@ -21557,64 +21551,17 @@
             }
         },
         "fostergreatness.co": {
-            "date": 1772007796519,
+            "date": 1792578766179,
             "oembed": {
                 "rich": [
                     "allow",
                     "horizontal",
-                    "resizable"
-                ]
-            }
-        },
-        "screenvod.com": {
-            "date": 1772007721831,
-            "oembed": {
-                "video": [
-                    "allow",
-                    "responsive"
-                ]
-            }
-        },
-        "widgets.kitly.co": {
-            "date": 1772200777253,
-            "html-meta": {
-                "iframely": "deny"
-            },
-            "oembed": {
-                "rich": [
-                    "allow",
-                    "responsive"
-                ]
-            }
-        },
-        "proof.recworks.io": {
-            "date": 1772230120706,
-            "oembed": {
-                "rich": [
-                    "allow",
-                    "horizontal",
-                    "resizable"
-                ]
-            }
-        },
-        "inspireclicks.co": {
-            "date": 1773305038035,
-            "oembed": {
-                "rich": [
-                    "allow",
-                    "horizontal",
-                    "resizable"
-                ]
-            },
-            "html-meta": {
-                "iframely": [
-                    "allow",
                     "resizable"
                 ]
             }
         },
         "joinus.website": {
-            "date": 1773839058052,
+            "date": 1793023061804,
             "oembed": {
                 "rich": [
                     "allow",
@@ -21624,18 +21571,8 @@
                 ]
             }
         },
-        "uatube.net": {
-            "date": 1773595672695,
-            "html-meta": {
-                "embedURL": [
-                    "allow",
-                    "responsive",
-                    "ld_only"
-                ]
-            }
-        },
         "app.screenweave.com": {
-            "date": 1773595791729,
+            "date": 1793011502207,
             "oembed": {
                 "video": [
                     "allow",
@@ -21644,7 +21581,7 @@
             }
         },
         "count.live": {
-            "date": 1773747144416,
+            "date": 1793022834029,
             "html-meta": {
                 "iframely": "deny"
             },
@@ -21656,7 +21593,7 @@
             }
         },
         "geometryviewer.com": {
-            "date": 1773797821582,
+            "date": 1793023320942,
             "oembed": {
                 "rich": [
                     "allow",
@@ -21665,7 +21602,7 @@
             }
         },
         "*.leadmatix.io": {
-            "date": 1774251888754,
+            "date": 1793029057813,
             "html-meta": {
                 "iframely": [
                     "allow",
@@ -21682,19 +21619,19 @@
             }
         },
         "app.clicknrec.com": {
-            "date": 1774909680780,
-            "oembed": {
-                "video": [
+            "date": 1793104650431,
+            "og": {
+                "video": "deny"
+            },
+            "twitter": {
+                "player": [
                     "allow",
                     "responsive"
                 ]
-            },
-            "og": {
-                "video": "allow"
             }
         },
         "salute.eu": {
-            "date": 1774918591013,
+            "date": 1793104318800,
             "html-meta": {
                 "embedURL": [
                     "allow",
@@ -22317,7 +22254,7 @@
             }
         },
         "youpick.best": {
-            "date": 1789578795335,
+            "date": 1792008673497,
             "oembed": {
                 "rich": [
                     "allow",
@@ -22328,7 +22265,7 @@
             }
         },
         "timerhub.io": {
-            "date": 1789581042527,
+            "date": 1792008681488,
             "oembed": {
                 "rich": [
                     "allow",
@@ -22349,7 +22286,7 @@
             }
         },
         "*.indee.co": {
-            "date": 1791938988195,
+            "date": 1792179958197,
             "twitter": {
                 "player": [
                     "allow",
@@ -22360,25 +22297,11 @@
                 "rich": "allow"
             },
             "html-meta": {
-                "iframely": "deny"
+                "iframely": "allow"
             }
         },
         "*.useceremo.com": {
             "date": 1790366199408,
-            "oembed": {
-                "rich": [
-                    "allow",
-                    "horizontal",
-                    "reader",
-                    "resizable"
-                ]
-            }
-        },
-        "guidelane.io": {
-            "date": 1790366400868,
-            "twitter": {
-                "player": "deny"
-            },
             "oembed": {
                 "rich": [
                     "allow",
@@ -22898,6 +22821,124 @@
                 "rich": [
                     "allow",
                     "responsive"
+                ]
+            }
+        },
+        "partner.dyoofna.com": {
+            "date": 1792525383749,
+            "html-meta": {
+                "iframely": "allow"
+            }
+        },
+        "cyclemate.club": {
+            "date": 1792592211810,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "responsive"
+                ]
+            }
+        },
+        "regularsforlife.com": {
+            "date": 1792525988886,
+            "html-meta": {
+                "iframely": [
+                    "allow",
+                    "resizable"
+                ]
+            }
+        },
+        "graphly.click": {
+            "date": 1792526433174,
+            "html-meta": {
+                "iframely": "allow"
+            }
+        },
+        "northlink.cc": {
+            "date": 1792591762324,
+            "twitter": {
+                "player": [
+                    "allow",
+                    "audio",
+                    "horizontal"
+                ]
+            },
+            "og": {
+                "video": "allow"
+            },
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "player",
+                    "horizontal",
+                    "audio"
+                ]
+            }
+        },
+        "soundza.com": {
+            "date": 1792611549009,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "horizontal",
+                    "audio"
+                ]
+            }
+        },
+        "clipy.online": {
+            "date": 1792787083996,
+            "oembed": {
+                "video": [
+                    "allow",
+                    "responsive"
+                ]
+            },
+            "og": {
+                "video": "allow"
+            }
+        },
+        "rsvp.so": {
+            "date": 1793115449171,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "ssl"
+                ]
+            }
+        },
+        "wisherio.app": {
+            "date": 1793391714258,
+            "html-meta": {
+                "iframely": "allow"
+            },
+            "oembed": {
+                "rich": "deny"
+            }
+        },
+        "linkoftime.com": {
+            "date": 1793283636931,
+            "html-meta": {
+                "iframely": [
+                    "allow",
+                    "resizable"
+                ]
+            }
+        },
+        "practice.theitalianlanguageboss.com": {
+            "date": 1793283816418,
+            "html-meta": {
+                "iframely": "deny"
+            },
+            "oembed": {
+                "rich": "deny"
+            }
+        },
+        "votedby.org": {
+            "date": 1793288900680,
+            "oembed": {
+                "rich": [
+                    "allow",
+                    "horizontal"
                 ]
             }
         }
